@@ -1,6 +1,6 @@
 const _resources = [
     {
-        "id": "0",
+        "id": 0,
         "title": "000WebHost",
         "description": "Zero cost website hosting with PHP, MySQL, cPanel & no ads",
         "url": "https://www.000webhost.com/",
@@ -9,9 +9,9 @@ const _resources = [
         "tag1": "HOSTING",
         "tag2": "WEBSITE",
         "tag3": ""
-    },
-    {
-        "id": "1",
+      },
+      {
+        "id": 1,
         "title": "1 Line Layouts",
         "description": "10 Modern CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be",
         "url": "https://1linelayouts.glitch.me/",
@@ -20,9 +20,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "CASCADING STYLE SHEETS CSS",
         "tag3": ""
-    },
-    {
-        "id": "2",
+      },
+      {
+        "id": 2,
         "title": "1 Million Free Pictures",
         "description": "Alternative source of free public domain pictures",
         "url": "https://www.1millionfreepictures.com/",
@@ -31,9 +31,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "3",
+      },
+      {
+        "id": 3,
         "title": "1.1.1.1",
         "description": "Public DNS resolver operated by Cloudflare that offers a fast and private way to browse the Internet",
         "url": "https://1.1.1.1/",
@@ -42,9 +42,9 @@ const _resources = [
         "tag1": "DNS",
         "tag2": "NETWORK",
         "tag3": "DOMAIN NAME SYSTEM"
-    },
-    {
-        "id": "4",
+      },
+      {
+        "id": 4,
         "title": "10 Minute Mail",
         "description": "Beat SPAM with the best disposable email service",
         "url": "https://10minutemail.com/",
@@ -53,9 +53,9 @@ const _resources = [
         "tag1": "TEMPORARY EMAIL",
         "tag2": "PRIVACY",
         "tag3": ""
-    },
-    {
-        "id": "5",
+      },
+      {
+        "id": 5,
         "title": "43North",
         "description": "At 43North, we're committed to growing the Buffalo, New York startup scene through $5M in annual investment and best-in-class programming",
         "url": "https://www.43north.org/",
@@ -64,9 +64,9 @@ const _resources = [
         "tag1": "INCUBATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "6",
+      },
+      {
+        "id": 6,
         "title": "500 Startups",
         "description": "Started in 2010 with its flagship early-stage startup accelerator, 500 Startups is the most active global venture capital firm known for its various funds and founder programs across the globe",
         "url": "https://500.co/",
@@ -75,9 +75,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "7",
+      },
+      {
+        "id": 7,
         "title": "ABS Free Pic",
         "description": "A high-resolution and absolutely free photos stock site with only one type of licence (CC0 Public Domain) which means You can do what ever you want with photos download from us",
         "url": "http://absfreepic.com/",
@@ -86,9 +86,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "8",
+      },
+      {
+        "id": 8,
         "title": "Accelerace",
         "description": "The most tailored accelerator in Europe",
         "url": "https://www.accelerace.io/accelerator/",
@@ -97,9 +97,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "9",
+      },
+      {
+        "id": 9,
         "title": "Accelerated Mobile Pages (AMP) Boilerplate",
         "description": "AMP is a web component framework that you can use to easily create user-first websites, stories, emails, and ads",
         "url": "https://amp.dev/boilerplate/",
@@ -108,9 +108,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "WEBSITE MOBILE RESPONSIVE",
         "tag3": "OPEN SOURCE"
-    },
-    {
-        "id": "10",
+      },
+      {
+        "id": 10,
         "title": "AddThis",
         "description": "AddThis share buttons, targeting tools and content recommendations help you get more likes, shares and followers and keep them coming back.",
         "url": "https://www.addthis.com/",
@@ -119,9 +119,9 @@ const _resources = [
         "tag1": "SOCIAL MEDIA",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "11",
+      },
+      {
+        "id": 11,
         "title": "AddToAny",
         "description": "Get share buttons for your website visitors to share content on any social sharing service",
         "url": "https://www.addtoany.com/",
@@ -130,9 +130,9 @@ const _resources = [
         "tag1": "SOCIAL MEDIA",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "12",
+      },
+      {
+        "id": 12,
         "title": "Adobe XD",
         "description": "Adobe XD is your UI/UX design solution for website and mobile app creation",
         "url": "https://www.adobe.com/products/xd.html",
@@ -141,9 +141,9 @@ const _resources = [
         "tag1": "PROTOTYPING",
         "tag2": "UX DESIGN",
         "tag3": ""
-    },
-    {
-        "id": "13",
+      },
+      {
+        "id": 13,
         "title": "Alchemist Accelerator",
         "description": "The Accelerator Dedicated to Enterprise Startups",
         "url": "https://alchemistaccelerator.com/",
@@ -152,20 +152,20 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "14",
+      },
+      {
+        "id": 14,
         "title": "Alison",
-        "description": "Free online courses from the world’s leading experts",
+        "description": "Free online courses from the world's leading experts",
         "url": "https://alison.com",
         "main_cat1": "MOOCs",
         "main_cat2": "",
         "tag1": "GENERAL",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "15",
+      },
+      {
+        "id": 15,
         "title": "Am I FLoCed?",
         "description": "Google is testing FLoC on Chrome users worldwide - Find out if you're one of them",
         "url": "https://amifloced.org/",
@@ -174,9 +174,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "USER TRACKING ADVERTISING",
         "tag3": "SURVEILLANCE"
-    },
-    {
-        "id": "16",
+      },
+      {
+        "id": 16,
         "title": "Am I Unique",
         "description": "Fingerprint collecting platform",
         "url": "https://amiunique.org/",
@@ -185,20 +185,20 @@ const _resources = [
         "tag1": "BROWSER",
         "tag2": "PRIVACY",
         "tag3": "NETWORK"
-    },
-    {
-        "id": "17",
+      },
+      {
+        "id": 17,
         "title": "AngelList",
-        "description": "Join the world’s largest startup community",
+        "description": "Join the world's largest startup community",
         "url": "https://angel.co/",
         "main_cat1": "STARTUPS",
         "main_cat2": "",
         "tag1": "DATABASE",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "18",
+      },
+      {
+        "id": 18,
         "title": "AngelPad",
         "description": "Ranked Top U.S Accelerator by MIT's Seed Accelerator Benchmark",
         "url": "https://angelpad.com/",
@@ -207,9 +207,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "19",
+      },
+      {
+        "id": 19,
         "title": "Any API",
         "description": "Documentation and Test Consoles for over 1400 Public APIs",
         "url": "https://any-api.com/",
@@ -218,9 +218,9 @@ const _resources = [
         "tag1": "API",
         "tag2": "RESOURCES",
         "tag3": "AUTOMATION"
-    },
-    {
-        "id": "20",
+      },
+      {
+        "id": 20,
         "title": "Apache ECharts",
         "description": "An Open Source JavaScript Visualization Library",
         "url": "https://echarts.apache.org/en/index.html",
@@ -229,9 +229,9 @@ const _resources = [
         "tag1": "VISUALIZATION",
         "tag2": "JAVASCRIPT JS",
         "tag3": ""
-    },
-    {
-        "id": "21",
+      },
+      {
+        "id": 21,
         "title": "API List",
         "description": "Over 800 free APIs for developers to develop the next big thing",
         "url": "https://apilist.fun/",
@@ -240,9 +240,9 @@ const _resources = [
         "tag1": "API",
         "tag2": "RESOURCES",
         "tag3": "AUTOMATION"
-    },
-    {
-        "id": "22",
+      },
+      {
+        "id": 22,
         "title": "APIfy",
         "description": "Apify extracts data from websites, crawls lists of URLs and automates workflows on the web. Turn any website into an API in a few minutes!",
         "url": "https://apify.com/",
@@ -251,9 +251,9 @@ const _resources = [
         "tag1": "API",
         "tag2": "DATA SCIENCE",
         "tag3": "AUTOMATION"
-    },
-    {
-        "id": "23",
+      },
+      {
+        "id": 23,
         "title": "APX",
         "description": "APX is the leading pre-seed VC and accelerator program for very early-stage startups in Europe",
         "url": "https://apx.ac/",
@@ -262,9 +262,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "24",
+      },
+      {
+        "id": 24,
         "title": "ArcGIS Hub",
         "description": "ArcGIS Hub is an easy-to-configure cloud platform that organizes people, data, and tools to accomplish Initiatives and goals",
         "url": "https://hub.arcgis.com/search",
@@ -273,9 +273,9 @@ const _resources = [
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": "GEOGRAPHIC DATA"
-    },
-    {
-        "id": "25",
+      },
+      {
+        "id": 25,
         "title": "Audiense",
         "description": "Identify relevant audiences, discover amazing actionable insights and inform your strategies to grow your business",
         "url": "https://audiense.com/",
@@ -284,9 +284,9 @@ const _resources = [
         "tag1": "SOCIAL MEDIA",
         "tag2": "MARKETING",
         "tag3": ""
-    },
-    {
-        "id": "26",
+      },
+      {
+        "id": 26,
         "title": "BackBox",
         "description": "Free Open Source Community Project with the aim of promoting the culture of security in IT environment",
         "url": "https://www.backbox.org/",
@@ -295,9 +295,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "OPERATING SYSTEM"
-    },
-    {
-        "id": "27",
+      },
+      {
+        "id": 27,
         "title": "Balena Cloud",
         "description": "The container-based platform for deploying IoT applications",
         "url": "https://www.balena.io/cloud/",
@@ -306,9 +306,9 @@ const _resources = [
         "tag1": "INTERNET OF THINGS",
         "tag2": "INTERNET OF THINGS IoT",
         "tag3": "CONTAINER"
-    },
-    {
-        "id": "28",
+      },
+      {
+        "id": 28,
         "title": "Barclays Accelerator",
         "description": "The Barclays Accelerator, powered by Techstars is a unique programme designed to take your business further",
         "url": "http://www.barclaysaccelerator.com/#/",
@@ -317,9 +317,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "29",
+      },
+      {
+        "id": 29,
         "title": "Barn Images",
         "description": "Free high-resolution images for everyone.",
         "url": "https://barnimages.com/",
@@ -328,9 +328,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "30",
+      },
+      {
+        "id": 30,
         "title": "bashrc Generator",
         "description": "Generate your .bashrc/PS1 bash prompt easily with a drag and drop interface.",
         "url": "https://bashrcgenerator.com/",
@@ -339,9 +339,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "TERMINAL",
         "tag3": "BASH PROMPT P1"
-    },
-    {
-        "id": "31",
+      },
+      {
+        "id": 31,
         "title": "Bethnal Green Ventures",
         "description": "BGV is Europe's leading early-stage tech for good VC",
         "url": "https://bethnalgreenventures.com/",
@@ -350,9 +350,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "32",
+      },
+      {
+        "id": 32,
         "title": "Bitbucket",
         "description": "Bitbucket is more than just Git code management",
         "url": "https://bitbucket.org/product",
@@ -361,9 +361,9 @@ const _resources = [
         "tag1": "DEVELOPMENT",
         "tag2": "PLATFORM",
         "tag3": "GIT CODE"
-    },
-    {
-        "id": "33",
+      },
+      {
+        "id": 33,
         "title": "Bitly",
         "description": "Shorten, create and share trusted, powerful links for your business",
         "url": "https://bitly.com/",
@@ -372,9 +372,9 @@ const _resources = [
         "tag1": "URL SHORTENER",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "34",
+      },
+      {
+        "id": 34,
         "title": "BlackArch",
         "description": "BlackArch Linux is a lightweight expansion to Arch Linux for penetration testers.",
         "url": "https://blackarch.org/",
@@ -383,9 +383,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "OPERATING SYSTEM"
-    },
-    {
-        "id": "35",
+      },
+      {
+        "id": 35,
         "title": "BlackBox Accelerate",
         "description": "Blackbox is a global founder accelerator based in Silicon Valley",
         "url": "https://www.blackbox.org/",
@@ -394,9 +394,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "36",
+      },
+      {
+        "id": 36,
         "title": "Blacklight",
         "description": "A Real-Time Website Privacy Inspector",
         "url": "https://themarkup.org/blacklight",
@@ -405,9 +405,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "USER TRACKING ADVERTISING",
         "tag3": ""
-    },
-    {
-        "id": "37",
+      },
+      {
+        "id": 37,
         "title": "Boost VC",
         "description": "Boost VC: The Pre-Seed Fund Making Sci-FI a Reality",
         "url": "https://www.boost.vc/",
@@ -416,9 +416,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "38",
+      },
+      {
+        "id": 38,
         "title": "Brands of the World",
         "description": "Brands of the World is the world\\'s largest library of brand logos in vector format available to download for free",
         "url": "https://www.brandsoftheworld.com/",
@@ -427,9 +427,9 @@ const _resources = [
         "tag1": "LOGOS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "39",
+      },
+      {
+        "id": 39,
         "title": "Bridge For Billions",
         "description": "Entrepreneurships programs",
         "url": "https://www.bridgeforbillions.org",
@@ -438,9 +438,9 @@ const _resources = [
         "tag1": "INCUBATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "40",
+      },
+      {
+        "id": 40,
         "title": "Brilliant",
         "description": "Brilliant - Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations",
         "url": "https://brilliant.org/",
@@ -449,9 +449,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "41",
+      },
+      {
+        "id": 41,
         "title": "BrowserAudit",
         "description": "BrowserAudit checks that your web browser correctly implements a wide variety of security standards and features",
         "url": "https://browseraudit.com/",
@@ -460,9 +460,9 @@ const _resources = [
         "tag1": "BROWSER",
         "tag2": "PRIVACY",
         "tag3": "NETWORK"
-    },
-    {
-        "id": "42",
+      },
+      {
+        "id": 42,
         "title": "BrowserLeaks",
         "description": "All about browsing privacy and web browser fingerprinting",
         "url": "https://browserleaks.com/",
@@ -471,9 +471,9 @@ const _resources = [
         "tag1": "BROWSER",
         "tag2": "PRIVACY",
         "tag3": "NETWORK"
-    },
-    {
-        "id": "43",
+      },
+      {
+        "id": 43,
         "title": "Buffer",
         "description": "Build your audience and grow your brand on social media.",
         "url": "https://buffer.com/",
@@ -482,9 +482,9 @@ const _resources = [
         "tag1": "SOCIAL MEDIA",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "44",
+      },
+      {
+        "id": 44,
         "title": "Built With",
         "description": "Find out what websites are Built With",
         "url": "https://builtwith.com/",
@@ -493,9 +493,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "TECH STACK WEBSITE",
         "tag3": "RESEARCH"
-    },
-    {
-        "id": "45",
+      },
+      {
+        "id": 45,
         "title": "Canada Open Data",
         "description": "Search open data that is relevant to Canadians, learn how to work with datasets, and see what people have done with open data across the country",
         "url": "https://open.canada.ca/en/open-data",
@@ -504,9 +504,9 @@ const _resources = [
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": "NORTH AMERICA"
-    },
-    {
-        "id": "46",
+      },
+      {
+        "id": 46,
         "title": "Canva",
         "description": "Graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content",
         "url": "https://www.canva.com/",
@@ -515,9 +515,9 @@ const _resources = [
         "tag1": "PHOTO / VIDEO EDITING",
         "tag2": "GRAPHIC DESIGN",
         "tag3": "TEMPLATES"
-    },
-    {
-        "id": "47",
+      },
+      {
+        "id": 47,
         "title": "Capital Kitchens",
         "description": "Commercial Kitchen, Shared-Use Kitchen, Culinary Incubator & Culinary Co-Working Space",
         "url": "http://www.capital-kitchens.com/",
@@ -526,9 +526,9 @@ const _resources = [
         "tag1": "INCUBATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "48",
+      },
+      {
+        "id": 48,
         "title": "CC0 Photo",
         "description": "Public Domain Photos",
         "url": "https://cc0.photo/",
@@ -537,9 +537,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "49",
+      },
+      {
+        "id": 49,
         "title": "Check for Cloudflare by Selesti",
         "description": "Online tool to check if a website is using Cloudflare DNS",
         "url": "https://checkforcloudflare.selesti.com/",
@@ -548,9 +548,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "DOMAIN NAME SYSTEM DNS"
-    },
-    {
-        "id": "50",
+      },
+      {
+        "id": 50,
         "title": "Checkphish",
         "description": "Free scanner to detect phishing & fraudulent sites in real-time",
         "url": "https://checkphish.ai/",
@@ -559,9 +559,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "51",
+      },
+      {
+        "id": 51,
         "title": "Chobani Incubator",
         "description": "The Chobani Incubator is a program for companies taking on broken food systems to bring better food to more people",
         "url": "https://chobaniincubator.com/",
@@ -570,9 +570,9 @@ const _resources = [
         "tag1": "INCUBATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "52",
+      },
+      {
+        "id": 52,
         "title": "CISA Virtual Learning Portal",
         "description": "Cyber and Infrastructure Security Agency Virtual Learning Portal",
         "url": "https://ics-training.inl.gov/learn",
@@ -581,9 +581,9 @@ const _resources = [
         "tag1": "CYBERSECURITY",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "53",
+      },
+      {
+        "id": 53,
         "title": "Cisco Networking Academy",
         "description": "Join the growing IT workforce of tomorrow",
         "url": "https://www.netacad.com/",
@@ -592,9 +592,9 @@ const _resources = [
         "tag1": "DIGITAL",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "54",
+      },
+      {
+        "id": 54,
         "title": "Cisco OpenDNS",
         "description": "Suite of consumer products aimed at making your internet faster, safer, and more reliable",
         "url": "https://www.opendns.com/",
@@ -603,9 +603,9 @@ const _resources = [
         "tag1": "DNS",
         "tag2": "NETWORK",
         "tag3": "DOMAIN NAME SYSTEM"
-    },
-    {
-        "id": "55",
+      },
+      {
+        "id": 55,
         "title": "Class Central",
         "description": "Discover thousands of FREE online courses and MOOCs from top universities and companies on Class Central",
         "url": "https://www.classcentral.com",
@@ -614,9 +614,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "56",
+      },
+      {
+        "id": 56,
         "title": "CleanCSS",
         "description": "Format your CSS, HTML, and Javascript to beautify and cleanup your code for easier reading",
         "url": "https://www.cleancss.com/",
@@ -625,9 +625,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "HTML5",
         "tag3": "CASCADING STYLE SHEETS CSS"
-    },
-    {
-        "id": "57",
+      },
+      {
+        "id": 57,
         "title": "Clippy",
         "description": "The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source",
         "url": "https://bennettfeely.com/clippy/",
@@ -636,9 +636,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "CASCADING STYLE SHEETS CSS",
         "tag3": ""
-    },
-    {
-        "id": "58",
+      },
+      {
+        "id": 58,
         "title": "Cloud4RPi",
         "description": "Cloud control panel for Raspberry Pi and other IoT devices",
         "url": "https://cloud4rpi.io/",
@@ -647,9 +647,9 @@ const _resources = [
         "tag1": "INTERNET OF THINGS",
         "tag2": "INTERNET OF THINGS IoT",
         "tag3": "RASPBERRY PI"
-    },
-    {
-        "id": "59",
+      },
+      {
+        "id": 59,
         "title": "Cloudflare Diagnostic Center",
         "description": "Check SSL security and test HTTPS as well as TLS security and redirect loops at the Cloudflare Diagnostic Center",
         "url": "https://www.cloudflare.com/diagnostic-center/",
@@ -658,9 +658,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": ""
-    },
-    {
-        "id": "60",
+      },
+      {
+        "id": 60,
         "title": "Cloudflare Image Optimization Test",
         "description": "With this tool, see how well your images are optimized and what you can do to improve them",
         "url": "https://images.cloudflare.com/",
@@ -669,9 +669,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "IMAGE RESIZING",
         "tag3": "SEO Ranking"
-    },
-    {
-        "id": "61",
+      },
+      {
+        "id": 61,
         "title": "Code Academy",
         "description": "Learn the technical skills you need for the job you want",
         "url": "https://www.codecademy.com/",
@@ -680,9 +680,9 @@ const _resources = [
         "tag1": "DIGITAL",
         "tag2": "ONLINE LEARNING",
         "tag3": "PROGRAMMING"
-    },
-    {
-        "id": "62",
+      },
+      {
+        "id": 62,
         "title": "Code Beautify",
         "description": "JSON Beautifier, XML Viewer, JSON Converters, Hex Converters and More...",
         "url": "https://codebeautify.org/",
@@ -691,9 +691,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "FORMATTING",
         "tag3": "ENCODERS"
-    },
-    {
-        "id": "63",
+      },
+      {
+        "id": 63,
         "title": "CodePen",
         "description": "The best place to build, test, and discover front-end code",
         "url": "https://codepen.io/",
@@ -702,9 +702,9 @@ const _resources = [
         "tag1": "DEVELOPMENT",
         "tag2": "PLATFORM",
         "tag3": ""
-    },
-    {
-        "id": "64",
+      },
+      {
+        "id": 64,
         "title": "CodeSandbox",
         "description": "CodeSandbox is an online editor tailored for web applications",
         "url": "https://codesandbox.io/",
@@ -713,9 +713,9 @@ const _resources = [
         "tag1": "IDEs",
         "tag2": "ONLINE",
         "tag3": ""
-    },
-    {
-        "id": "65",
+      },
+      {
+        "id": 65,
         "title": "Comment Picker",
         "description": "Pick a Facebook comment as competition winner",
         "url": "https://commentpicker.com/",
@@ -724,9 +724,9 @@ const _resources = [
         "tag1": "SOCIAL MEDIA",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "66",
+      },
+      {
+        "id": 66,
         "title": "Commerce Innovated",
         "description": "An accelerator jointly run by Silicon Valley Bank and Fiserv",
         "url": "http://commerceinnovated.com/",
@@ -735,9 +735,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "67",
+      },
+      {
+        "id": 67,
         "title": "Coursera",
         "description": "Join Coursera for free and learn online",
         "url": "https://www.coursera.org/",
@@ -746,9 +746,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "68",
+      },
+      {
+        "id": 68,
         "title": "Crunchbase",
         "description": "Discover innovative companies and the people behind them",
         "url": "https://www.crunchbase.com/",
@@ -757,9 +757,9 @@ const _resources = [
         "tag1": "DATABASE",
         "tag2": "INVESTMENTS",
         "tag3": "MARKET RESEARCH"
-    },
-    {
-        "id": "69",
+      },
+      {
+        "id": 69,
         "title": "CSP Evaluator with Google",
         "description": "Content Security Policy (CSP) Evaluator",
         "url": "https://csp-evaluator.withgoogle.com/",
@@ -768,9 +768,9 @@ const _resources = [
         "tag1": "SECURITY",
         "tag2": "HTML HTTP HEADER",
         "tag3": ""
-    },
-    {
-        "id": "70",
+      },
+      {
+        "id": 70,
         "title": "CSP Validator",
         "description": "Validate Content Security Policy (CSP) in headers and meta elements",
         "url": "https://cspvalidator.org/",
@@ -779,9 +779,9 @@ const _resources = [
         "tag1": "SECURITY",
         "tag2": "HTML HTTP HEADER",
         "tag3": ""
-    },
-    {
-        "id": "71",
+      },
+      {
+        "id": 71,
         "title": "CyberChef",
         "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
         "url": "https://gchq.github.io/CyberChef/",
@@ -790,9 +790,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "ENCRYPTION DECRYPTION ENCODING DECODING HASHES CHECKSUMS COMPRESSION",
         "tag3": "DATA ANLYSIS"
-    },
-    {
-        "id": "72",
+      },
+      {
+        "id": 72,
         "title": "Cyberduck",
         "description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox",
         "url": "https://cyberduck.io/",
@@ -801,9 +801,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "FILE TRANSFER PROTOCOL FTP",
         "tag3": "CLOUD"
-    },
-    {
-        "id": "73",
+      },
+      {
+        "id": 73,
         "title": "Cybrary",
         "description": "Cybersecurity training from Cybrary will take your career to the next level",
         "url": "https://www.cybrary.it/",
@@ -812,9 +812,9 @@ const _resources = [
         "tag1": "CYBERSECURITY",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "74",
+      },
+      {
+        "id": 74,
         "title": "Cyfe",
         "description": "Monitor and visualize your business on one easy to use, real-time dashboard",
         "url": "https://www.cyfe.com/",
@@ -823,9 +823,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "SOCIAL MEDIA",
         "tag3": ""
-    },
-    {
-        "id": "75",
+      },
+      {
+        "id": 75,
         "title": "D3JS",
         "description": "JavaScript library for manipulating documents based on data",
         "url": "https://d3js.org/",
@@ -834,9 +834,9 @@ const _resources = [
         "tag1": "VISUALIZATION",
         "tag2": "JAVASCRIPT JS",
         "tag3": ""
-    },
-    {
-        "id": "76",
+      },
+      {
+        "id": 76,
         "title": "Data Requests",
         "description": "You have a right to privacy",
         "url": "https://www.datarequests.org/",
@@ -845,9 +845,9 @@ const _resources = [
         "tag1": "PRIVACY",
         "tag2": "GDPR",
         "tag3": "EUROPEAN UNION EU"
-    },
-    {
-        "id": "77",
+      },
+      {
+        "id": 77,
         "title": "Data School",
         "description": "Launch a data science career",
         "url": "https://www.dataschool.io",
@@ -856,20 +856,20 @@ const _resources = [
         "tag1": "DIGITAL",
         "tag2": "ONLINE LEARNING",
         "tag3": "PROGRAMMING"
-    },
-    {
-        "id": "78",
+      },
+      {
+        "id": 78,
         "title": "Data World",
-        "description": "data.world is home to the world’s largest collaborative data community, which is free and open to the public",
+        "description": "data.world is home to the world's largest collaborative data community, which is free and open to the public",
         "url": "https://data.world/",
         "main_cat1": "OPEN DATA",
         "main_cat2": "",
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": ""
-    },
-    {
-        "id": "79",
+      },
+      {
+        "id": 79,
         "title": "DataBox",
         "description": "Databox pulls all your data into one place, so you can track performance and discover insights in real-time",
         "url": "https://databox.com/",
@@ -878,9 +878,9 @@ const _resources = [
         "tag1": "VISUALIZATION",
         "tag2": "ANALYTICS",
         "tag3": "TOOLS"
-    },
-    {
-        "id": "80",
+      },
+      {
+        "id": 80,
         "title": "DataCamp",
         "description": "Learn Data Science from the comfort of your browser, at your own pace with DataCamp's video tutorials & coding challenges on R, Python, Statistics & more",
         "url": "https://www.datacamp.com/",
@@ -889,9 +889,9 @@ const _resources = [
         "tag1": "DIGITAL",
         "tag2": "ONLINE LEARNING",
         "tag3": "PROGRAMMING"
-    },
-    {
-        "id": "81",
+      },
+      {
+        "id": 81,
         "title": "Datasets – Reddit",
         "description": "A place to share, find, and discuss Datasets",
         "url": "https://www.reddit.com/r/datasets/",
@@ -900,9 +900,9 @@ const _resources = [
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": "INFORMATION"
-    },
-    {
-        "id": "82",
+      },
+      {
+        "id": 82,
         "title": "DataWrapper",
         "description": "Create interactive, responsive & beautiful charts",
         "url": "https://www.datawrapper.de/",
@@ -911,9 +911,9 @@ const _resources = [
         "tag1": "VISUALIZATION",
         "tag2": "EMBEDDED CHARTS",
         "tag3": ""
-    },
-    {
-        "id": "83",
+      },
+      {
+        "id": 83,
         "title": "DCU Ryan Academy",
         "description": "DCU Ryan Academy promotes and accelerates early stage entrepreneurship in Ireland",
         "url": "https://ryanacademy.ie/",
@@ -922,9 +922,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "84",
+      },
+      {
+        "id": 84,
         "title": "DeepNote",
         "description": "Fully managed data science notebooks that work well in a team",
         "url": "https://deepnote.com/",
@@ -933,9 +933,9 @@ const _resources = [
         "tag1": "IDEs",
         "tag2": "ONLINE",
         "tag3": ""
-    },
-    {
-        "id": "85",
+      },
+      {
+        "id": 85,
         "title": "Demium StartUps Spain",
         "description": "We are an internet business incubator",
         "url": "https://demiumstartups.com",
@@ -944,9 +944,9 @@ const _resources = [
         "tag1": "INCUBATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "86",
+      },
+      {
+        "id": 86,
         "title": "Designer Pics",
         "description": "Free photographs for your personal and commercial use",
         "url": "http://www.designerspics.com/",
@@ -955,9 +955,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "87",
+      },
+      {
+        "id": 87,
         "title": "Digital Ocean",
         "description": "Helping millions of developers easily build, test, manage, and scale applications of any size – faster than ever before",
         "url": "https://www.digitalocean.com/",
@@ -966,9 +966,9 @@ const _resources = [
         "tag1": "CLOUD SERVICE",
         "tag2": "WEBSITE HOSTING",
         "tag3": "WEB APPS"
-    },
-    {
-        "id": "88",
+      },
+      {
+        "id": 88,
         "title": "Distill Ventures",
         "description": "Distill Ventures provide investment and support for spirits startups and entrepreneurs who want to create the global drinks brands of the future",
         "url": "https://www.distillventures.com/",
@@ -977,9 +977,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "89",
+      },
+      {
+        "id": 89,
         "title": "DMARC",
         "description": "Stands for “Domain-based Message Authentication, Reporting & Conformance”, is an email authentication, policy, and reporting protocol",
         "url": "https://dmarc.org/",
@@ -988,9 +988,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "DKIM, SPF, DMARC",
         "tag3": "EMAIL"
-    },
-    {
-        "id": "90",
+      },
+      {
+        "id": 90,
         "title": "DNS Checker",
         "description": "View all tools by DNS Checker",
         "url": "https://dnschecker.org/all-tools.php",
@@ -999,9 +999,9 @@ const _resources = [
         "tag1": "DNS",
         "tag2": "NETWORK",
         "tag3": "DOMAIN NAME SYSTEM"
-    },
-    {
-        "id": "91",
+      },
+      {
+        "id": 91,
         "title": "DNS Dumpster",
         "description": "Domain research tool that can discover hosts related to a domain",
         "url": "https://dnsdumpster.com/",
@@ -1010,9 +1010,9 @@ const _resources = [
         "tag1": "DNS",
         "tag2": "NETWORK",
         "tag3": "DOMAIN NAME SYSTEM"
-    },
-    {
-        "id": "92",
+      },
+      {
+        "id": 92,
         "title": "DNS Leak Test",
         "description": "DNSleaktest.com offers a simple test to determine if you DNS requests are being leaked which may represent a critical privacy threat",
         "url": "https://www.dnsleaktest.com/",
@@ -1021,9 +1021,9 @@ const _resources = [
         "tag1": "DNS",
         "tag2": "NETWORK",
         "tag3": "DOMAIN NAME SYSTEM"
-    },
-    {
-        "id": "93",
+      },
+      {
+        "id": 93,
         "title": "DNSSEC Resolver Test",
         "description": "This test determines whether your DNS resolver validates DNSSEC signatures",
         "url": "https://dnssec.vs.uni-due.de/",
@@ -1032,9 +1032,9 @@ const _resources = [
         "tag1": "DNS",
         "tag2": "NETWORK",
         "tag3": "DOMAIN NAME SYSTEM"
-    },
-    {
-        "id": "94",
+      },
+      {
+        "id": 94,
         "title": "DNSviz",
         "description": "DNSViz is a tool for visualizing the status of a DNS zone",
         "url": "https://dnsviz.net/",
@@ -1043,9 +1043,9 @@ const _resources = [
         "tag1": "DNS",
         "tag2": "NETWORK",
         "tag3": "DOMAIN NAME SYSTEM"
-    },
-    {
-        "id": "95",
+      },
+      {
+        "id": 95,
         "title": "Do I Leak",
         "description": "Do you leak while browsing? Check your browser, VPN and/or proxy for privacy leaks with this free online test.",
         "url": "https://www.doileak.com/",
@@ -1054,20 +1054,20 @@ const _resources = [
         "tag1": "BROWSER",
         "tag2": "PRIVACY",
         "tag3": "NETWORK"
-    },
-    {
-        "id": "96",
+      },
+      {
+        "id": 96,
         "title": "Dogpatch Labs",
-        "description": "Dogpatch Labs is a startup hub, located in the heart of Dublin’s Digital Docklands",
+        "description": "Dogpatch Labs is a startup hub, located in the heart of Dublin's Digital Docklands",
         "url": "https://dogpatchlabs.com/",
         "main_cat1": "STARTUPS",
         "main_cat2": "",
         "tag1": "ACCELERATOR",
         "tag2": "IRELAND",
         "tag3": ""
-    },
-    {
-        "id": "97",
+      },
+      {
+        "id": 97,
         "title": "DuckDuckGo",
         "description": "The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs",
         "url": "https://duckduckgo.com/",
@@ -1076,9 +1076,9 @@ const _resources = [
         "tag1": "PRIVACY",
         "tag2": "ONLINE",
         "tag3": ""
-    },
-    {
-        "id": "98",
+      },
+      {
+        "id": 98,
         "title": "Ecosia",
         "description": "Ecosia uses the ad revenue from your searches to plant trees where they are needed the most",
         "url": "https://www.ecosia.org/?c=en",
@@ -1087,9 +1087,9 @@ const _resources = [
         "tag1": "PRIVACY",
         "tag2": "ONLINE",
         "tag3": ""
-    },
-    {
-        "id": "99",
+      },
+      {
+        "id": 99,
         "title": "edX",
         "description": "Access 2000 free online courses from 140 leading institutions worldwide",
         "url": "https://www.edx.org",
@@ -1098,9 +1098,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "100",
+      },
+      {
+        "id": 100,
         "title": "Elements of AI",
         "description": "Learn more about Reaktor's and the University of Helsinki's AI course - no programming or complicated math required",
         "url": "https://www.elementsofai.com/",
@@ -1109,9 +1109,9 @@ const _resources = [
         "tag1": "DIGITAL",
         "tag2": "ONLINE LEARNING",
         "tag3": "ARTIFICIAL INTELLIGENCE"
-    },
-    {
-        "id": "101",
+      },
+      {
+        "id": 101,
         "title": "Email Security Grader (ESG)",
         "description": "Use our email security grader to find any weak points",
         "url": "https://www.emailsecuritygrader.com/",
@@ -1120,31 +1120,31 @@ const _resources = [
         "tag1": "SECURITY",
         "tag2": "DKIM, SPF, DMARC",
         "tag3": ""
-    },
-    {
-        "id": "102",
+      },
+      {
+        "id": 102,
         "title": "Emerge Education",
-        "description": "Emerge Education is the only VC fund backed by the world’s leading education entrepreneurs",
+        "description": "Emerge Education is the only VC fund backed by the world's leading education entrepreneurs",
         "url": "https://emerge.education/",
         "main_cat1": "STARTUPS",
         "main_cat2": "",
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "103",
+      },
+      {
+        "id": 103,
         "title": "Entrepreneur First",
-        "description": "Enabling the world’s most ambitious people to build the most important companies",
+        "description": "Enabling the world's most ambitious people to build the most important companies",
         "url": "https://www.joinef.com/",
         "main_cat1": "STARTUPS",
         "main_cat2": "",
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "104",
+      },
+      {
+        "id": 104,
         "title": "Environmental Data Explorer – UNEP",
         "description": "Authoritative source for data sets used by UNEP and its partners in the Global Environment Outlook (GEO) report and other integrated environment assessments",
         "url": "https://geodata.grid.unep.ch/",
@@ -1153,9 +1153,9 @@ const _resources = [
         "tag1": "DATASETS",
         "tag2": "HEALTH",
         "tag3": "CLIMATE CHANGE"
-    },
-    {
-        "id": "105",
+      },
+      {
+        "id": 105,
         "title": "EU-Startups",
         "description": "Leading online publication with a focus on startups in Europe",
         "url": "https://www.eu-startups.com/",
@@ -1164,9 +1164,9 @@ const _resources = [
         "tag1": "DATABASE",
         "tag2": "EUROPE",
         "tag3": ""
-    },
-    {
-        "id": "106",
+      },
+      {
+        "id": 106,
         "title": "Euro Control",
         "description": "Supporting European Aviation",
         "url": "https://www.eurocontrol.int/",
@@ -1175,9 +1175,9 @@ const _resources = [
         "tag1": "FLIGHTS",
         "tag2": "AIR TRAFFIC",
         "tag3": ""
-    },
-    {
-        "id": "107",
+      },
+      {
+        "id": 107,
         "title": "Europe Open Data",
         "description": "The EU Open Data Portal provides, via a metadata catalogue, a single point of access to data of the EU institutions, agencies and bodies for anyone to reuse",
         "url": "https://data.europa.eu/",
@@ -1186,9 +1186,9 @@ const _resources = [
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": "EUROPE"
-    },
-    {
-        "id": "108",
+      },
+      {
+        "id": 108,
         "title": "European Data Portal",
         "description": "The European Data Portal harvests the metadata of Public Sector Information available on public data portals across European countries",
         "url": "https://www.europeandataportal.eu/en",
@@ -1197,9 +1197,9 @@ const _resources = [
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": "EUROPE"
-    },
-    {
-        "id": "109",
+      },
+      {
+        "id": 109,
         "title": "Exploit DB",
         "description": "The Exploit Database - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more",
         "url": "https://www.exploit-db.com/",
@@ -1208,9 +1208,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "PENETRATION TESTING",
         "tag3": "SECURITY"
-    },
-    {
-        "id": "110",
+      },
+      {
+        "id": 110,
         "title": "Facebook Blueprint",
         "description": "Facebook Blueprint helps you learn the skills to move your business forward",
         "url": "https://www.facebookblueprint.com/",
@@ -1219,9 +1219,9 @@ const _resources = [
         "tag1": "FACEBOOK",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "111",
+      },
+      {
+        "id": 111,
         "title": "Facebook Elevate",
         "description": "Facebook Elevate is a community and learning platform created to accelerate the growth of entities of color and celebrate creators who break barriers and turn dreams into realities",
         "url": "https://www.elevateandlearn.com/student/catalog",
@@ -1230,9 +1230,9 @@ const _resources = [
         "tag1": "DIGITAL",
         "tag2": "ONLINE LEARNING",
         "tag3": "SOCIAL MEDIA"
-    },
-    {
-        "id": "112",
+      },
+      {
+        "id": 112,
         "title": "Figma",
         "description": "Build better products as a team",
         "url": "https://www.figma.com/",
@@ -1241,9 +1241,9 @@ const _resources = [
         "tag1": "PROTOTYPING",
         "tag2": "UX DESIGN",
         "tag3": ""
-    },
-    {
-        "id": "113",
+      },
+      {
+        "id": 113,
         "title": "FilterLists",
         "description": "FilterLists is the independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances",
         "url": "https://filterlists.com/",
@@ -1252,9 +1252,9 @@ const _resources = [
         "tag1": "FILTERS",
         "tag2": "PRIVACY",
         "tag3": "AD BLOCKER"
-    },
-    {
-        "id": "114",
+      },
+      {
+        "id": 114,
         "title": "Find Logo Vector",
         "description": "Free download vector logos for personal and non-profit use",
         "url": "https://findlogovector.com/",
@@ -1263,9 +1263,9 @@ const _resources = [
         "tag1": "LOGOS",
         "tag2": "BRANDING",
         "tag3": ""
-    },
-    {
-        "id": "115",
+      },
+      {
+        "id": 115,
         "title": "Flaticon",
         "description": "Thousands of free icons in the largest database of free vector icons",
         "url": "https://www.flaticon.com/",
@@ -1274,9 +1274,9 @@ const _resources = [
         "tag1": "ICONS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "116",
+      },
+      {
+        "id": 116,
         "title": "Flickr",
         "description": "Image hosting and video hosting service",
         "url": "https://www.flickr.com/",
@@ -1285,9 +1285,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "117",
+      },
+      {
+        "id": 117,
         "title": "Flight ICS",
         "description": "Search your perfect European trip",
         "url": "https://www.flightics.com/en",
@@ -1296,9 +1296,9 @@ const _resources = [
         "tag1": "FLIGHTS",
         "tag2": "TOURISM",
         "tag3": ""
-    },
-    {
-        "id": "118",
+      },
+      {
+        "id": 118,
         "title": "FluidUI",
         "description": "Free lifetime account",
         "url": "https://www.fluidui.com/",
@@ -1307,9 +1307,9 @@ const _resources = [
         "tag1": "PROTOTYPING",
         "tag2": "UX DESIGN",
         "tag3": ""
-    },
-    {
-        "id": "119",
+      },
+      {
+        "id": 119,
         "title": "Followerwonk",
         "description": "Tools for Twitter Analytics, Bio Search and More",
         "url": "https://followerwonk.com/",
@@ -1318,9 +1318,9 @@ const _resources = [
         "tag1": "SOCIAL MEDIA",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "120",
+      },
+      {
+        "id": 120,
         "title": "Font Squirrel",
         "description": "Font Squirrel scours the internet for high quality, legitimately free fonts",
         "url": "https://www.fontsquirrel.com/",
@@ -1329,9 +1329,9 @@ const _resources = [
         "tag1": "FONTS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "121",
+      },
+      {
+        "id": 121,
         "title": "FontBase",
         "description": "FontBase is a font manager made by designers, for designers",
         "url": "https://fontba.se/",
@@ -1340,9 +1340,9 @@ const _resources = [
         "tag1": "FONTS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "122",
+      },
+      {
+        "id": 122,
         "title": "Fonts2U",
         "description": "Large collection of free fonts",
         "url": "https://fonts2u.com/",
@@ -1351,9 +1351,9 @@ const _resources = [
         "tag1": "FONTS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "123",
+      },
+      {
+        "id": 123,
         "title": "Food-X",
         "description": "",
         "url": "https://food-x.com/",
@@ -1362,9 +1362,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "124",
+      },
+      {
+        "id": 124,
         "title": "Foodies Feed",
         "description": "The best free food photos for commercial use",
         "url": "https://www.foodiesfeed.com/",
@@ -1373,20 +1373,20 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "125",
+      },
+      {
+        "id": 125,
         "title": "Founder Institute (FI)",
-        "description": "Since 2009, the world’s fastest-growing startups have used the Founder Institute to raise funding, get into seed-accelerators, generate traction, and more",
+        "description": "Since 2009, the world's fastest-growing startups have used the Founder Institute to raise funding, get into seed-accelerators, generate traction, and more",
         "url": "https://fi.co/",
         "main_cat1": "STARTUPS",
         "main_cat2": "",
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "126",
+      },
+      {
+        "id": 126,
         "title": "Free For Dev",
         "description": "This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers",
         "url": "https://free-for.dev/",
@@ -1395,9 +1395,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "RESOURCES",
         "tag3": "OPEN SOURCE"
-    },
-    {
-        "id": "127",
+      },
+      {
+        "id": 127,
         "title": "Free Formatter",
         "description": "Formatters, validators, code minifiers, string escapers, encoders and decoders, message digesters, web resources and more",
         "url": "https://www.freeformatter.com/",
@@ -1406,9 +1406,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "FORMATTING",
         "tag3": "ENCODERS"
-    },
-    {
-        "id": "128",
+      },
+      {
+        "id": 128,
         "title": "Free Icons",
         "description": "Freeicons is  a free platform for download vector icons in SVG, PNG, EPS, AI and PSD format",
         "url": "https://freeicons.io/",
@@ -1417,9 +1417,9 @@ const _resources = [
         "tag1": "ICONS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "129",
+      },
+      {
+        "id": 129,
         "title": "Free Images",
         "description": "Browse royalty-free photos",
         "url": "https://www.freeimages.com/",
@@ -1428,9 +1428,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "130",
+      },
+      {
+        "id": 130,
         "title": "Free Logo Design",
         "description": "Create your logo design online for your business or project",
         "url": "https://www.freelogodesign.org/",
@@ -1439,9 +1439,9 @@ const _resources = [
         "tag1": "LOGO MAKER",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "131",
+      },
+      {
+        "id": 131,
         "title": "Free Nature Stock",
         "description": "The best free nature stock photos and videos (CC0)",
         "url": "https://freenaturestock.com/",
@@ -1450,9 +1450,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "132",
+      },
+      {
+        "id": 132,
         "title": "Free Programming Books",
         "description": "List of Free Learning Resources In Many Languages",
         "url": "https://github.com/EbookFoundation/free-programming-books",
@@ -1461,9 +1461,9 @@ const _resources = [
         "tag1": "PROGRAMMING LANGUAGE",
         "tag2": "ONLINE LEARNING",
         "tag3": "EDUCATION"
-    },
-    {
-        "id": "133",
+      },
+      {
+        "id": 133,
         "title": "FreeDNS Afraid",
         "description": "Free DNS Hosting, Dynamic DNS Hosting, Static DNS Hosting, subdomain and domain hosting",
         "url": "https://freedns.afraid.org/",
@@ -1472,9 +1472,9 @@ const _resources = [
         "tag1": "HOSTING",
         "tag2": "WEBSITE",
         "tag3": "DOMAIN NAME SYSTEM DNS"
-    },
-    {
-        "id": "134",
+      },
+      {
+        "id": 134,
         "title": "Freepik",
         "description": "Find Free Vectors, Stock Photos and PSD",
         "url": "https://www.freepik.com/",
@@ -1483,9 +1483,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "135",
+      },
+      {
+        "id": 135,
         "title": "Freerange Stock",
         "description": "Free stock photography at freerangestock",
         "url": "https://freerangestock.com/",
@@ -1494,9 +1494,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "136",
+      },
+      {
+        "id": 136,
         "title": "Gateway Incubator",
         "description": "Gateway is the premier cannabis business incubator",
         "url": "https://www.gtwy.co/",
@@ -1505,9 +1505,9 @@ const _resources = [
         "tag1": "INCUBATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "137",
+      },
+      {
+        "id": 137,
         "title": "German Accelerator",
         "description": "",
         "url": "https://www.germanaccelerator.com/",
@@ -1516,9 +1516,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "138",
+      },
+      {
+        "id": 138,
         "title": "Get Gophish",
         "description": "Gophish is a powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing",
         "url": "https://getgophish.com/",
@@ -1527,9 +1527,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "PRIVACY",
         "tag3": "TESTING"
-    },
-    {
-        "id": "139",
+      },
+      {
+        "id": 139,
         "title": "Gibson Research Corporation",
         "description": "Steve Gibson's and Gibson Research Corporation's Homepage.",
         "url": "https://www.grc.com/default.htm",
@@ -1538,9 +1538,9 @@ const _resources = [
         "tag1": "NETWORK",
         "tag2": "PRIVACY",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "140",
+      },
+      {
+        "id": 140,
         "title": "GIMP",
         "description": "GNU Image Manipulation Program",
         "url": "https://www.gimp.org/",
@@ -1549,9 +1549,9 @@ const _resources = [
         "tag1": "PHOTO / VIDEO EDITING",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "141",
+      },
+      {
+        "id": 141,
         "title": "GitHub",
         "description": "Founded in 2007, GitHub has brought millions of developers together to discover, share, and build better software",
         "url": "https://github.com/",
@@ -1560,9 +1560,9 @@ const _resources = [
         "tag1": "DEVELOPMENT",
         "tag2": "PLATFORM",
         "tag3": "GIT CODE"
-    },
-    {
-        "id": "142",
+      },
+      {
+        "id": 142,
         "title": "Givero",
         "description": "For every web search you make using Givero, we donate half of our revenue to good causes like Save the Children, World Animal Protection or The Ocean Cleanup Project",
         "url": "https://www.givero.com/",
@@ -1571,9 +1571,9 @@ const _resources = [
         "tag1": "PRIVACY",
         "tag2": "ONLINE",
         "tag3": ""
-    },
-    {
-        "id": "143",
+      },
+      {
+        "id": 143,
         "title": "Global Open Data Index",
         "description": "The Global Open Data Index provides the most comprehensive snapshot available of the state of open government data publication",
         "url": "https://index.okfn.org/",
@@ -1582,9 +1582,9 @@ const _resources = [
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": "INDEX"
-    },
-    {
-        "id": "144",
+      },
+      {
+        "id": 144,
         "title": "Good Stock Photos",
         "description": "Search & download free stock photos to use on your website, blog, social media, app, print design, or anywhere you want for personal or commercial use.",
         "url": "https://goodstock.photos/",
@@ -1593,9 +1593,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "145",
+      },
+      {
+        "id": 145,
         "title": "GoodData",
         "description": "BI platform to bring analytics to 100s of teams, partners and customers",
         "url": "https://www.gooddata.com/",
@@ -1604,9 +1604,9 @@ const _resources = [
         "tag1": "VISUALIZATION",
         "tag2": "ANALYTICS",
         "tag3": "TOOLS"
-    },
-    {
-        "id": "146",
+      },
+      {
+        "id": 146,
         "title": "GoogieHost",
         "description": "Unlimited free web hosting with cPanel, Php 7, MySQL, FTP support, Unlimited SSD Disk Space, Bandwidth",
         "url": "https://googiehost.com/",
@@ -1615,9 +1615,9 @@ const _resources = [
         "tag1": "HOSTING",
         "tag2": "WEBSITE",
         "tag3": ""
-    },
-    {
-        "id": "147",
+      },
+      {
+        "id": 147,
         "title": "Google Admin Toolbox",
         "description": "Use the Google Admin Toolbox to troubleshoot issues you have with Google Workspace services",
         "url": "https://toolbox.googleapps.com/apps/main/",
@@ -1626,9 +1626,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "DKIM, SPF, DMARC",
         "tag3": "DOMAIN NAME SYSTEM DNS"
-    },
-    {
-        "id": "148",
+      },
+      {
+        "id": 148,
         "title": "Google Analytics",
         "description": "Google Analytics gives you the tools you need to better understand your customers",
         "url": "https://marketingplatform.google.com/about/analytics/",
@@ -1637,9 +1637,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "149",
+      },
+      {
+        "id": 149,
         "title": "Google Analytics Campaign URL Builder",
         "description": "Easily add campaign parameters to URLs so you can track Custom Campaigns in Google Analytics",
         "url": "https://ga-dev-tools.appspot.com/campaign-url-builder/",
@@ -1648,9 +1648,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "150",
+      },
+      {
+        "id": 150,
         "title": "Google Charts",
         "description": "Google chart tools are powerful, simple to use, and free",
         "url": "https://developers.google.com/chart",
@@ -1659,9 +1659,9 @@ const _resources = [
         "tag1": "VISUALIZATION",
         "tag2": "JAVASCRIPT JS",
         "tag3": ""
-    },
-    {
-        "id": "151",
+      },
+      {
+        "id": 151,
         "title": "Google Cloud",
         "description": "A suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, file storage, and YouTube",
         "url": "https://cloud.google.com/",
@@ -1670,9 +1670,9 @@ const _resources = [
         "tag1": "CLOUD SERVICE",
         "tag2": "INFRASTRUCTURE",
         "tag3": "WEB APPS"
-    },
-    {
-        "id": "152",
+      },
+      {
+        "id": 152,
         "title": "Google Colab",
         "description": "Colab notebooks allow you to combine executable code and rich text in a single document, along with images, HTML, LaTeX and more",
         "url": "https://colab.research.google.com/",
@@ -1681,9 +1681,9 @@ const _resources = [
         "tag1": "IDEs",
         "tag2": "ONLINE",
         "tag3": "PYTHON"
-    },
-    {
-        "id": "153",
+      },
+      {
+        "id": 153,
         "title": "Google Data Studio",
         "description": "Free tool that turns your data into informative, easy to read, easy to share, and fully customizable dashboards and reports",
         "url": "https://datastudio.google.com/",
@@ -1692,9 +1692,9 @@ const _resources = [
         "tag1": "VISUALIZATION",
         "tag2": "ANALYTICS",
         "tag3": "TOOLS"
-    },
-    {
-        "id": "154",
+      },
+      {
+        "id": 154,
         "title": "Google Dataset Search",
         "description": "Dataset Search is a search engine for datasets.",
         "url": "https://datasetsearch.research.google.com/",
@@ -1703,9 +1703,9 @@ const _resources = [
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": ""
-    },
-    {
-        "id": "155",
+      },
+      {
+        "id": 155,
         "title": "Google Digital Garage",
         "description": "Free online marketing training to get the digital skills you need to grow your business, your career. Free courses from Google to become a digital expert",
         "url": "https://learndigital.withgoogle.com/digitalgarage",
@@ -1714,9 +1714,9 @@ const _resources = [
         "tag1": "DIGITAL",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "156",
+      },
+      {
+        "id": 156,
         "title": "Google Flights",
         "description": "Find cheap flights in seconds, explore destinations on a map, and sign up for fare alerts on Google Flights",
         "url": "https://www.google.com/travel/flights",
@@ -1725,9 +1725,9 @@ const _resources = [
         "tag1": "FLIGHTS",
         "tag2": "TOURISM",
         "tag3": ""
-    },
-    {
-        "id": "157",
+      },
+      {
+        "id": 157,
         "title": "Google Fonts",
         "description": "Making the web more beautiful, fast, and open through great typography",
         "url": "https://fonts.google.com/",
@@ -1736,9 +1736,9 @@ const _resources = [
         "tag1": "FONTS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "158",
+      },
+      {
+        "id": 158,
         "title": "Google Mobile-Friendly Test",
         "description": "Is your web page mobile-friendly?",
         "url": "https://search.google.com/test/mobile-friendly",
@@ -1747,9 +1747,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SPEED",
         "tag3": "MOBILE RESPONSIVENESS"
-    },
-    {
-        "id": "159",
+      },
+      {
+        "id": 159,
         "title": "Google PageSpeed Insights",
         "description": "Make your web pages fast on all devices",
         "url": "https://developers.google.com/speed/pagespeed/insights/",
@@ -1758,9 +1758,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "SPEED",
         "tag3": "WEB DEVELOPMENT"
-    },
-    {
-        "id": "160",
+      },
+      {
+        "id": 160,
         "title": "Google Passwords",
         "description": "Manage your saved passwords in Android or Chrome",
         "url": "https://passwords.google.com/",
@@ -1769,9 +1769,9 @@ const _resources = [
         "tag1": "PASSWORD MANAGER",
         "tag2": "SECURITY",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "161",
+      },
+      {
+        "id": 161,
         "title": "Google Public DNS",
         "description": "A free, global DNS resolution service that you can use as an alternative to your current DNS provider.",
         "url": "https://developers.google.com/speed/public-dns",
@@ -1780,9 +1780,9 @@ const _resources = [
         "tag1": "DNS",
         "tag2": "NETWORK",
         "tag3": "DOMAIN NAME SYSTEM"
-    },
-    {
-        "id": "162",
+      },
+      {
+        "id": 162,
         "title": "Google Rich Results Test",
         "description": "Rich results are experiences on Google surfaces, such as Search, that go beyond the standard blue link",
         "url": "https://search.google.com/test/rich-results",
@@ -1791,9 +1791,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "STRUCTURED DATA SCHEMA JSON-LD",
         "tag3": "WEB DEVELOPMENT"
-    },
-    {
-        "id": "163",
+      },
+      {
+        "id": 163,
         "title": "Google Safe Browsing Report Phishing Website",
         "description": "",
         "url": "https://safebrowsing.google.com/safebrowsing/report_phish/",
@@ -1802,9 +1802,9 @@ const _resources = [
         "tag1": "BROWSER",
         "tag2": "SECURITY",
         "tag3": "PHISHING"
-    },
-    {
-        "id": "164",
+      },
+      {
+        "id": 164,
         "title": "Google Search Console",
         "description": "Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results",
         "url": "https://search.google.com/search-console/about",
@@ -1813,9 +1813,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "SEARCH ENGINE",
         "tag3": ""
-    },
-    {
-        "id": "165",
+      },
+      {
+        "id": 165,
         "title": "Google Sites",
         "description": "With the new Google Sites, building websites is easy",
         "url": "https://sites.google.com/",
@@ -1824,20 +1824,20 @@ const _resources = [
         "tag1": "HOSTING",
         "tag2": "WEBSITE",
         "tag3": "WEB APPS"
-    },
-    {
-        "id": "166",
+      },
+      {
+        "id": 166,
         "title": "Google Transparency Report",
-        "description": "oogle’s Safe Browsing technology examines billions of URLs per day looking for unsafe websites",
+        "description": "oogle's Safe Browsing technology examines billions of URLs per day looking for unsafe websites",
         "url": "https://transparencyreport.google.com/safe-browsing/search",
         "main_cat1": "CYBERSEC",
         "main_cat2": "",
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "WEBSITE"
-    },
-    {
-        "id": "167",
+      },
+      {
+        "id": 167,
         "title": "Google Trends",
         "description": "Explore what the world is searching",
         "url": "https://trends.google.com/trends/",
@@ -1846,9 +1846,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "TRENDS",
         "tag3": ""
-    },
-    {
-        "id": "168",
+      },
+      {
+        "id": 168,
         "title": "Google Web Developers",
         "description": "Discover tools that can help you kickstart your development",
         "url": "https://developers.google.com/web/tools",
@@ -1857,9 +1857,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "169",
+      },
+      {
+        "id": 169,
         "title": "Graphext",
         "description": "Data Science for Business and Marketing Analysts",
         "url": "https://www.graphext.com/",
@@ -1868,9 +1868,9 @@ const _resources = [
         "tag1": "ANALYTICS",
         "tag2": "MARKETING",
         "tag3": "DATA"
-    },
-    {
-        "id": "170",
+      },
+      {
+        "id": 170,
         "title": "Gratisography",
         "description": "The world's quirkiest collection of free high-resolution pictures you can use on your personal and commercial projects",
         "url": "https://gratisography.com/",
@@ -1879,9 +1879,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "171",
+      },
+      {
+        "id": 171,
         "title": "GTmetrix",
         "description": "See how your site performs, reveal why it's slow and discover optimization opportunities",
         "url": "https://gtmetrix.com/",
@@ -1890,9 +1890,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "SEO",
         "tag3": ""
-    },
-    {
-        "id": "172",
+      },
+      {
+        "id": 172,
         "title": "Guerilla Mail",
         "description": "Use a temporary email",
         "url": "https://www.guerrillamail.com/",
@@ -1901,9 +1901,9 @@ const _resources = [
         "tag1": "TEMPORARY EMAIL",
         "tag2": "PRIVACY",
         "tag3": ""
-    },
-    {
-        "id": "173",
+      },
+      {
+        "id": 173,
         "title": "Gust",
         "description": "The best place to start, grow, and fund your venture",
         "url": "https://gust.com/",
@@ -1912,9 +1912,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "174",
+      },
+      {
+        "id": 174,
         "title": "H-FARM",
         "description": "Discover H-FARM: we are a digital platform which helps young people and new born companies to move their business into a digital way of thinking",
         "url": "https://www.h-farm.com/en",
@@ -1923,9 +1923,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "175",
+      },
+      {
+        "id": 175,
         "title": "HAR Analyzer – Google Admin Toolbox",
         "description": "HAR (HTTP Archive) is a file format used by several HTTP session tools to export the captured data.",
         "url": "https://toolbox.googleapps.com/apps/har_analyzer/",
@@ -1934,9 +1934,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "HTTP ANALYSIS",
         "tag3": "HTTP NETWORK SESSION"
-    },
-    {
-        "id": "176",
+      },
+      {
+        "id": 176,
         "title": "HarvardX",
         "description": "Explore online courses from Harvard University",
         "url": "https://online-learning.harvard.edu/",
@@ -1945,9 +1945,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "177",
+      },
+      {
+        "id": 177,
         "title": "Have I been Pwned",
         "description": "Check if you have an account that has been compromised in a data breach",
         "url": "https://haveibeenpwned.com/",
@@ -1956,9 +1956,9 @@ const _resources = [
         "tag1": "SECURITY",
         "tag2": "PRIVACY",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "178",
+      },
+      {
+        "id": 178,
         "title": "Heroku",
         "description": "Cloud platform as a service supporting several programming languages",
         "url": "https://www.heroku.com/",
@@ -1967,9 +1967,9 @@ const _resources = [
         "tag1": "CLOUD SERVICE",
         "tag2": "WEBSITE HOSTING",
         "tag3": "WEB APPS"
-    },
-    {
-        "id": "179",
+      },
+      {
+        "id": 179,
         "title": "Hey Meta",
         "description": "Check and improve how search engines and social media websites see and display your website",
         "url": "https://www.heymeta.com/",
@@ -1978,9 +1978,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "METADATA",
         "tag3": ""
-    },
-    {
-        "id": "180",
+      },
+      {
+        "id": 180,
         "title": "Hidester Browser Fingerprint",
         "description": "Are you anonymous online? Your digital fingerprint pulls together information that can be used to identify you when on the internet. Prevent tracking today!",
         "url": "https://hidester.com/browser-fingerprint/",
@@ -1989,9 +1989,9 @@ const _resources = [
         "tag1": "BROWSER",
         "tag2": "PRIVACY",
         "tag3": "NETWORK"
-    },
-    {
-        "id": "181",
+      },
+      {
+        "id": 181,
         "title": "HighCharts",
         "description": "Highcharts makes it easy for developers to set up interactive charts in their web pages",
         "url": "https://www.highcharts.com/",
@@ -2000,20 +2000,20 @@ const _resources = [
         "tag1": "VISUALIZATION",
         "tag2": "JAVASCRIPT JS",
         "tag3": ""
-    },
-    {
-        "id": "182",
+      },
+      {
+        "id": 182,
         "title": "HighTechXL",
-        "description": "We’re deep-tech venture builders",
+        "description": "We're deep-tech venture builders",
         "url": "https://www.hightechxl.com/",
         "main_cat1": "STARTUPS",
         "main_cat2": "",
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "183",
+      },
+      {
+        "id": 183,
         "title": "HostedScans",
         "description": "Continuous alerts, detection, and monitors for server and application security vulnerabilities",
         "url": "https://hostedscan.com/scans",
@@ -2022,9 +2022,9 @@ const _resources = [
         "tag1": "SECURITY",
         "tag2": "OWASP",
         "tag3": "NMAP"
-    },
-    {
-        "id": "184",
+      },
+      {
+        "id": 184,
         "title": "HTML Cheatsheet",
         "description": "Online interactive HTML Cheat Sheet contains useful code examples and web developer tools, markup generators and more",
         "url": "https://htmlcheatsheet.com/",
@@ -2033,9 +2033,9 @@ const _resources = [
         "tag1": "DEVELOPMENT",
         "tag2": "WEBSITE HTML",
         "tag3": "CHEATSHEET"
-    },
-    {
-        "id": "185",
+      },
+      {
+        "id": 185,
         "title": "HTML5UP",
         "description": "Responsive HTML5 and CSS3 site templates",
         "url": "https://html5up.net/",
@@ -2044,9 +2044,9 @@ const _resources = [
         "tag1": "HTML TEMPLATES",
         "tag2": "HTML5",
         "tag3": "CASCADING STYLE SHEETS CSS"
-    },
-    {
-        "id": "186",
+      },
+      {
+        "id": 186,
         "title": "I/O Ventures",
         "description": "i/o ventures is a super early stage startup fund that focuses heavily on its mentorship program",
         "url": "http://ventures.io/",
@@ -2055,9 +2055,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "187",
+      },
+      {
+        "id": 187,
         "title": "IBM Cognitive Class",
         "description": "In this blockchain course, you'll learn how blockchain technology can solve business problems and how to leverage chaincode to develop applications.",
         "url": "https://cognitiveclass.ai/courses/blockchain-course/",
@@ -2066,9 +2066,9 @@ const _resources = [
         "tag1": "DIGITAL",
         "tag2": "ONLINE LEARNING",
         "tag3": "PROGRAMMING"
-    },
-    {
-        "id": "188",
+      },
+      {
+        "id": 188,
         "title": "IBM Quad9",
         "description": "Quad9 is a free, recursive, anycast DNS platform that provides end users robust security protections, high-performance, and privacy.",
         "url": "https://www.quad9.net/",
@@ -2077,9 +2077,9 @@ const _resources = [
         "tag1": "DNS",
         "tag2": "NETWORK",
         "tag3": "DOMAIN NAME SYSTEM DNS"
-    },
-    {
-        "id": "189",
+      },
+      {
+        "id": 189,
         "title": "Icon Finder",
         "description": "Iconfinder is the leading search engine and market place for vector icons in SVG, PNG, CSH and AI format.",
         "url": "https://www.iconfinder.com/",
@@ -2088,9 +2088,9 @@ const _resources = [
         "tag1": "ICONS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "190",
+      },
+      {
+        "id": 190,
         "title": "Icons8",
         "description": "Designers, download the design stuff for free — icons, photos, UX illustrations, and music for your videos.",
         "url": "https://icons8.com/",
@@ -2099,9 +2099,9 @@ const _resources = [
         "tag1": "ICONS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "191",
+      },
+      {
+        "id": 191,
         "title": "Identity Theft",
         "description": "When Information Is Lost or Exposed – United States of America USA",
         "url": "https://www.identitytheft.gov/databreach",
@@ -2110,9 +2110,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "SECURITY",
         "tag3": "PRIVACY"
-    },
-    {
-        "id": "192",
+      },
+      {
+        "id": 192,
         "title": "Imagine K12",
         "description": "Imagine K12 is a startup accelerator that provides strategic support and $100k in initial funding to tech companies focused on the education market",
         "url": "http://www.imaginek12.com/",
@@ -2121,9 +2121,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "193",
+      },
+      {
+        "id": 193,
         "title": "INCIBE – Spain",
         "description": "Business light risk self-diagnosis",
         "url": "https://adl.incibe.es/",
@@ -2132,9 +2132,9 @@ const _resources = [
         "tag1": "SECURITY",
         "tag2": "BUSINESS RISK ASSESSMENT",
         "tag3": ""
-    },
-    {
-        "id": "194",
+      },
+      {
+        "id": 194,
         "title": "Incident Database",
         "description": "The starting point for information about the AI Incident Database",
         "url": "https://incidentdatabase.ai/",
@@ -2143,9 +2143,9 @@ const _resources = [
         "tag1": "ANALYTICS",
         "tag2": "ARTIFICIAL INTELLIGENCE AI",
         "tag3": ""
-    },
-    {
-        "id": "195",
+      },
+      {
+        "id": 195,
         "title": "Index",
         "description": "Enrich and automate workflows with portable data on tech companies",
         "url": "https://index.co/companies",
@@ -2154,9 +2154,9 @@ const _resources = [
         "tag1": "DATABASE",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "196",
+      },
+      {
+        "id": 196,
         "title": "InfinityFree",
         "description": "Completely free website hosting with unlimited disk space and bandwidth",
         "url": "https://infinityfree.net/",
@@ -2165,9 +2165,9 @@ const _resources = [
         "tag1": "HOSTING",
         "tag2": "WEBSITE",
         "tag3": "WEB APPS"
-    },
-    {
-        "id": "197",
+      },
+      {
+        "id": 197,
         "title": "InnMind",
         "description": "First Global Community for Innovation",
         "url": "https://innmind.com/",
@@ -2176,9 +2176,9 @@ const _resources = [
         "tag1": "DATABASE",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "198",
+      },
+      {
+        "id": 198,
         "title": "Innovators Program",
         "description": "A unique 3 month program where both startup founders and Internal Innovation Teams work on building new businesses",
         "url": "http://www.innovatorsprogram.co/",
@@ -2187,9 +2187,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "199",
+      },
+      {
+        "id": 199,
         "title": "Intelligence X",
         "description": "Intelligence X is a search engine and data archive",
         "url": "https://intelx.io/",
@@ -2198,31 +2198,31 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "PUBLIC WEB",
         "tag3": ""
-    },
-    {
-        "id": "200",
+      },
+      {
+        "id": 200,
         "title": "Invision App",
-        "description": "InVision is the digital product design platform used to make the world’s best customer experiences",
+        "description": "InVision is the digital product design platform used to make the world's best customer experiences",
         "url": "https://www.invisionapp.com/",
         "main_cat1": "CREATIVE",
         "main_cat2": "",
         "tag1": "PROTOTYPING",
         "tag2": "UX DESIGN",
         "tag3": ""
-    },
-    {
-        "id": "201",
+      },
+      {
+        "id": 201,
         "title": "Is BGP Safe Yet?",
-        "description": "Border Gateway Protocol (BGP) is the postal service of the Internet, unfortunately, it isn’t secure.",
+        "description": "Border Gateway Protocol (BGP) is the postal service of the Internet, unfortunately, it isn't secure.",
         "url": "https://isbgpsafeyet.com/",
         "main_cat1": "ANALYTICS",
         "main_cat2": "",
         "tag1": "TOOLS",
         "tag2": "DATA PATHS ROUTES",
         "tag3": "NETWORKING INTERNET SERVICE PROVIDERS ISP"
-    },
-    {
-        "id": "202",
+      },
+      {
+        "id": 202,
         "title": "ISO Republic",
         "description": "We provide for download the best high-resolution images & videos, all free for personal and commercial use",
         "url": "https://isorepublic.com/",
@@ -2231,9 +2231,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "203",
+      },
+      {
+        "id": 203,
         "title": "Jupyter Notebook",
         "description": "Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages",
         "url": "https://jupyter.org/",
@@ -2242,9 +2242,9 @@ const _resources = [
         "tag1": "IDEs",
         "tag2": "PYTHON",
         "tag3": ""
-    },
-    {
-        "id": "204",
+      },
+      {
+        "id": 204,
         "title": "Just Delete Me",
         "description": "A directory of direct links to delete your account from web services.",
         "url": "https://justdeleteme.xyz/",
@@ -2253,20 +2253,20 @@ const _resources = [
         "tag1": "PRIVACY",
         "tag2": "SECURITY",
         "tag3": ""
-    },
-    {
-        "id": "205",
+      },
+      {
+        "id": 205,
         "title": "Kaggle",
-        "description": "Kaggle is the world’s largest data science community with powerful tools and resources to help you achieve your data science goals",
+        "description": "Kaggle is the world's largest data science community with powerful tools and resources to help you achieve your data science goals",
         "url": "https://www.kaggle.com/",
         "main_cat1": "OPEN DATA",
         "main_cat2": "",
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": ""
-    },
-    {
-        "id": "206",
+      },
+      {
+        "id": 206,
         "title": "Kali Linux",
         "description": "Advanced Penetration Testing Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments",
         "url": "https://www.kali.org/",
@@ -2275,9 +2275,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "OPERATING SYSTEM"
-    },
-    {
-        "id": "207",
+      },
+      {
+        "id": 207,
         "title": "Kaspersky Threat Intelligence Portal",
         "description": "Respond to threats more effectively",
         "url": "https://opentip.kaspersky.com/",
@@ -2286,9 +2286,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "WEBSITE"
-    },
-    {
-        "id": "208",
+      },
+      {
+        "id": 208,
         "title": "Kickstart Accelerator",
         "description": "Kickstart is a platform that bridges the gap between startups, corporates, cities, foundations and universities to accelerate deep tech innovation",
         "url": "https://kickstart-accelerator.com/",
@@ -2297,9 +2297,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "209",
+      },
+      {
+        "id": 209,
         "title": "KITCHENTOWN Central",
         "description": "KitchenTown helps develop, commercialize, and launch impact-driven food products",
         "url": "https://kitchentowncentral.com/",
@@ -2308,9 +2308,9 @@ const _resources = [
         "tag1": "INCUBATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "210",
+      },
+      {
+        "id": 210,
         "title": "KNIME",
         "description": "Free and open-source data analytics, reporting and integration platform",
         "url": "https://www.knime.com/",
@@ -2319,9 +2319,9 @@ const _resources = [
         "tag1": "IDEs",
         "tag2": "OPEN SOURCE",
         "tag3": "DATA ANALYTICS"
-    },
-    {
-        "id": "211",
+      },
+      {
+        "id": 211,
         "title": "La Cocina",
         "description": "The mission of La Cocina is to cultivate low-income food entrepreneurs as they formalize and grow their businesses",
         "url": "https://lacocinasf.org/",
@@ -2330,9 +2330,9 @@ const _resources = [
         "tag1": "INCUBATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "212",
+      },
+      {
+        "id": 212,
         "title": "LastPass",
         "description": "Try the best password manager for free! Generate strong passwords and store them in a secure vault",
         "url": "https://www.lastpass.com/",
@@ -2341,9 +2341,9 @@ const _resources = [
         "tag1": "PASSWORD MANAGER",
         "tag2": "SECURITY",
         "tag3": ""
-    },
-    {
-        "id": "213",
+      },
+      {
+        "id": 213,
         "title": "Lightroom",
         "description": "Nondestructive edits, sliders & filters make better photos online-simply",
         "url": "https://lightroom.adobe.com/",
@@ -2352,9 +2352,9 @@ const _resources = [
         "tag1": "PHOTO / VIDEO EDITING",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "214",
+      },
+      {
+        "id": 214,
         "title": "Lisbon Challenge",
         "description": "Lisbon Challenge is the acceleration program focused on the people behind the startup",
         "url": "http://www.lisbon-challenge.com/",
@@ -2363,9 +2363,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "215",
+      },
+      {
+        "id": 215,
         "title": "LogoAI",
         "description": "Generate your custom logo design with our free logo maker. Just type in your business name and let our Ai-powered logo generator do the work",
         "url": "https://www.logoai.com/logo-maker",
@@ -2374,9 +2374,9 @@ const _resources = [
         "tag1": "LOGO MAKER",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "216",
+      },
+      {
+        "id": 216,
         "title": "Looka",
         "description": "Looka is a free logo maker that uses artificial intelligence, so it feels like you're working with a real designer and the results are amazing",
         "url": "https://looka.com/onboarding",
@@ -2385,9 +2385,9 @@ const _resources = [
         "tag1": "LOGO MAKER",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "217",
+      },
+      {
+        "id": 217,
         "title": "Lucidpress",
         "description": "Lucidpress is the brand templating platform anyone can master",
         "url": "https://www.lucidpress.com/pages/",
@@ -2396,9 +2396,9 @@ const _resources = [
         "tag1": "PHOTO / VIDEO EDITING",
         "tag2": "BRANDING",
         "tag3": ""
-    },
-    {
-        "id": "218",
+      },
+      {
+        "id": 218,
         "title": "Lukol",
         "description": "Anonymous search engine",
         "url": "https://www.lukol.com/",
@@ -2407,9 +2407,9 @@ const _resources = [
         "tag1": "PRIVACY",
         "tag2": "ONLINE",
         "tag3": ""
-    },
-    {
-        "id": "219",
+      },
+      {
+        "id": 219,
         "title": "Magic Mockups",
         "description": "Place your product screenshot in real-life environment",
         "url": "https://magicmockups.com/",
@@ -2418,9 +2418,9 @@ const _resources = [
         "tag1": "MOCKUPS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "220",
+      },
+      {
+        "id": 220,
         "title": "Manos Accelerator",
         "description": "Mentorship-driven accelerator program that provides “hands-on” education, business resources, infrastructure, capital, and guidance",
         "url": "https://manosaccelerator.com/",
@@ -2429,9 +2429,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "221",
+      },
+      {
+        "id": 221,
         "title": "ManualsLib",
         "description": "Search For Manuals Online",
         "url": "https://www.manualslib.com/",
@@ -2440,9 +2440,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "PDFs",
         "tag3": "PRODUCT MANUALS GUIDES"
-    },
-    {
-        "id": "222",
+      },
+      {
+        "id": 222,
         "title": "Map to Globe",
         "description": "Create a globe using your own images or generate one from scratch",
         "url": "https://www.maptoglobe.com/",
@@ -2451,9 +2451,9 @@ const _resources = [
         "tag1": "MOCKUPS",
         "tag2": "MAPS",
         "tag3": ""
-    },
-    {
-        "id": "223",
+      },
+      {
+        "id": 223,
         "title": "MapChart",
         "description": "Create your own custom map of the World, United States, Europe, and 50+ different maps",
         "url": "https://mapchart.net/",
@@ -2462,9 +2462,9 @@ const _resources = [
         "tag1": "MOCKUPS",
         "tag2": "MAPS",
         "tag3": ""
-    },
-    {
-        "id": "224",
+      },
+      {
+        "id": 224,
         "title": "Marvel App",
         "description": "The collaborative design platform",
         "url": "https://marvelapp.com/",
@@ -2473,9 +2473,9 @@ const _resources = [
         "tag1": "PROTOTYPING",
         "tag2": "UX DESIGN",
         "tag3": ""
-    },
-    {
-        "id": "225",
+      },
+      {
+        "id": 225,
         "title": "MassChallenge",
         "description": "",
         "url": "https://masschallenge.org/",
@@ -2484,9 +2484,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "226",
+      },
+      {
+        "id": 226,
         "title": "Matter VC",
         "description": "Building innovators",
         "url": "http://www.matter.vc/",
@@ -2495,9 +2495,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "227",
+      },
+      {
+        "id": 227,
         "title": "Mention",
         "description": "Mention enables brands and agencies to monitor the web, listen to their audience and manage social media",
         "url": "https://mention.com/en/",
@@ -2506,9 +2506,9 @@ const _resources = [
         "tag1": "SOCIAL MEDIA",
         "tag2": "MARKETING",
         "tag3": ""
-    },
-    {
-        "id": "228",
+      },
+      {
+        "id": 228,
         "title": "MERKLE SEO Tools",
         "description": "A variety of SEO Tools such as RSS Feed Parser, AMP Validator, Robots.txt tester, Sitemap Generator, and more.",
         "url": "https://technicalseo.com/tools/",
@@ -2517,9 +2517,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SEARCH ENGINE OPTIMIZATION",
         "tag3": "WEBSITES"
-    },
-    {
-        "id": "229",
+      },
+      {
+        "id": 229,
         "title": "Microsoft Accelerator",
         "description": "Over the next two years, Microsoft has pledged 500 million dollars to support startups with access to technology, community spaces, and sales opportunities",
         "url": "https://startups.microsoft.com/en-us/",
@@ -2528,9 +2528,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "230",
+      },
+      {
+        "id": 230,
         "title": "Mockup Phone",
         "description": "MockUPhone is a free tool that helps you wrap app screenshots in different mobile devices",
         "url": "https://mockuphone.com/",
@@ -2539,9 +2539,9 @@ const _resources = [
         "tag1": "MOCKUPS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "231",
+      },
+      {
+        "id": 231,
         "title": "Mockup World",
         "description": "Tons of free and legal, fully layered, easily customizable photo realistic PSD mockups: Ready to use in your projects, app showcases and presentations!",
         "url": "https://www.mockupworld.co/",
@@ -2550,9 +2550,9 @@ const _resources = [
         "tag1": "MOCKUPS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "232",
+      },
+      {
+        "id": 232,
         "title": "Mockuper",
         "description": "The free mockups generator to create custom images to show your awesome works",
         "url": "https://mockuper.net/",
@@ -2561,9 +2561,9 @@ const _resources = [
         "tag1": "MOCKUPS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "233",
+      },
+      {
+        "id": 233,
         "title": "Momentum VC",
         "description": "",
         "url": "http://www.momentum.vc/",
@@ -2572,9 +2572,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "234",
+      },
+      {
+        "id": 234,
         "title": "MOOC List",
         "description": "Find with multiple criteria MOOCs and Free Online Courses",
         "url": "https://www.mooc-list.com/",
@@ -2583,9 +2583,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "235",
+      },
+      {
+        "id": 235,
         "title": "Moqups",
         "description": "Moqups is a streamlined and intuitive web app that helps you create and collaborate on wireframes, mockups, diagrams and prototypes — for any type of project.",
         "url": "https://moqups.com/",
@@ -2594,9 +2594,9 @@ const _resources = [
         "tag1": "PROTOTYPING",
         "tag2": "UX DESIGN",
         "tag3": ""
-    },
-    {
-        "id": "236",
+      },
+      {
+        "id": 236,
         "title": "MX Lookup Tool",
         "description": "Innovative tool that helps in the analysis and monitor of server systems",
         "url": "https://mxtoolbox.com/",
@@ -2605,9 +2605,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "DKIM, SPF, DMARC",
         "tag3": "DOMAIN NAME SYSTEM DNS"
-    },
-    {
-        "id": "237",
+      },
+      {
+        "id": 237,
         "title": "MySQL",
         "description": "MySQL Database Service is a fully managed database service to deploy cloud-native applications",
         "url": "https://www.mysql.com/",
@@ -2616,9 +2616,9 @@ const _resources = [
         "tag1": "PROGRAMMING LANGUAGE",
         "tag2": "SQL",
         "tag3": ""
-    },
-    {
-        "id": "238",
+      },
+      {
+        "id": 238,
         "title": "Namelix",
         "description": "Business Name Generator",
         "url": "https://namelix.com/",
@@ -2627,9 +2627,9 @@ const _resources = [
         "tag1": "LOGOS",
         "tag2": "NAME GENERATOR",
         "tag3": ""
-    },
-    {
-        "id": "239",
+      },
+      {
+        "id": 239,
         "title": "NDRC LaunchPad",
         "description": "",
         "url": "https://www.ndrc.ie/",
@@ -2638,9 +2638,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "240",
+      },
+      {
+        "id": 240,
         "title": "Netlify",
         "description": "Deploy modern static websites with Netlify",
         "url": "https://www.netlify.com/",
@@ -2649,9 +2649,9 @@ const _resources = [
         "tag1": "CLOUD SERVICE",
         "tag2": "WEBSITE HOSTING",
         "tag3": "WEB APPS"
-    },
-    {
-        "id": "241",
+      },
+      {
+        "id": 241,
         "title": "Network Advertising OptOut",
         "description": "",
         "url": "https://optout.networkadvertising.org/",
@@ -2660,9 +2660,9 @@ const _resources = [
         "tag1": "PRIVACY",
         "tag2": "ADVERTISING",
         "tag3": ""
-    },
-    {
-        "id": "242",
+      },
+      {
+        "id": 242,
         "title": "Nextstars",
         "description": "",
         "url": "http://www.nextstars.fr/",
@@ -2671,9 +2671,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "243",
+      },
+      {
+        "id": 243,
         "title": "Ngrok",
         "description": "Cross-platform application that enables developers to expose a local development server to the Internet with minimal effort",
         "url": "https://ngrok.com/",
@@ -2682,9 +2682,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "WEBSITE TESTING",
         "tag3": "WEBSITE DEVELOPMENT WEB APPS"
-    },
-    {
-        "id": "244",
+      },
+      {
+        "id": 244,
         "title": "Nmap",
         "description": "Nmap Free Security Scanner, Port Scanner, & Network Exploration Tool",
         "url": "https://nmap.org/",
@@ -2693,9 +2693,9 @@ const _resources = [
         "tag1": "NETWORK",
         "tag2": "SECURITY",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "245",
+      },
+      {
+        "id": 245,
         "title": "Norton SafeWeb",
         "description": "",
         "url": "https://safeweb.norton.com/",
@@ -2704,9 +2704,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "WEBSITE"
-    },
-    {
-        "id": "246",
+      },
+      {
+        "id": 246,
         "title": "Objective-See",
         "description": "Free macOS security tools to help secure your Mac",
         "url": "https://objective-see.com/index.html",
@@ -2715,9 +2715,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "MacOS",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "247",
+      },
+      {
+        "id": 247,
         "title": "Observatory Mozilla",
         "description": "The Mozilla Observatory is a project designed to help developers, system administrators, and security professionals configure their sites safely and securely",
         "url": "https://observatory.mozilla.org/",
@@ -2726,9 +2726,9 @@ const _resources = [
         "tag1": "SECURITY",
         "tag2": "HTTP ANALYTICS",
         "tag3": "WEBSITE"
-    },
-    {
-        "id": "248",
+      },
+      {
+        "id": 248,
         "title": "OISD",
         "description": "The oisd domain blocklist; designed to be the best domain blocklist",
         "url": "https://oisd.nl/",
@@ -2737,9 +2737,9 @@ const _resources = [
         "tag1": "FILTERS",
         "tag2": "PRIVACY",
         "tag3": "AD BLOCKER"
-    },
-    {
-        "id": "249",
+      },
+      {
+        "id": 249,
         "title": "One Traction Accelerator",
         "description": "",
         "url": "https://onetraction.vc/",
@@ -2748,9 +2748,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "250",
+      },
+      {
+        "id": 250,
         "title": "Open Data Soft",
         "description": "Opendatasoft is the data sharing platform teams use to access, reuse and share data that grows business",
         "url": "https://data.opendatasoft.com/pages/home/",
@@ -2759,9 +2759,9 @@ const _resources = [
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": ""
-    },
-    {
-        "id": "251",
+      },
+      {
+        "id": 251,
         "title": "OpenGraph",
         "description": "Preview and Generate Open Graph Meta Tags",
         "url": "https://www.opengraph.xyz/",
@@ -2770,9 +2770,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "METADATA",
         "tag3": "OPEN GRAPH PROTOCOL"
-    },
-    {
-        "id": "252",
+      },
+      {
+        "id": 252,
         "title": "Orange Fab",
         "description": "We are a platform for connecting startups and corporations in a meaningful way",
         "url": "https://www.orangefab.com/",
@@ -2781,31 +2781,31 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "253",
+      },
+      {
+        "id": 253,
         "title": "OWASP Dependency-Check",
-        "description": "Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies",
+        "description": "Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies",
         "url": "https://owasp.org/www-project-dependency-check/",
         "main_cat1": "CYBERSEC",
         "main_cat2": "",
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "VULNERABILITY ANALYTICS PENETRATION TESTING"
-    },
-    {
-        "id": "254",
+      },
+      {
+        "id": 254,
         "title": "OWASP Zed Attack Proxy (ZAP)",
-        "description": "The world’s most widely used web app scanner",
+        "description": "The world's most widely used web app scanner",
         "url": "https://www.zaproxy.org/",
         "main_cat1": "CYBERSEC",
         "main_cat2": "",
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "WEBSITE SCANNER PENETRATION TESTING"
-    },
-    {
-        "id": "255",
+      },
+      {
+        "id": 255,
         "title": "ownCloud",
         "description": "The most essential business tool since email: ownCloud, your file platform",
         "url": "https://owncloud.com/",
@@ -2814,9 +2814,9 @@ const _resources = [
         "tag1": "CLOUD SERVICE",
         "tag2": "",
         "tag3": "RASPBERRY PI"
-    },
-    {
-        "id": "256",
+      },
+      {
+        "id": 256,
         "title": "PANDO Ventures",
         "description": "",
         "url": "http://pando-ventures.com/en/accelerator/",
@@ -2825,9 +2825,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "257",
+      },
+      {
+        "id": 257,
         "title": "Panopticlick",
         "description": "See how trackers view your browser",
         "url": "https://panopticlick.eff.org/",
@@ -2836,9 +2836,9 @@ const _resources = [
         "tag1": "BROWSER",
         "tag2": "PRIVACY",
         "tag3": "NETWORK"
-    },
-    {
-        "id": "258",
+      },
+      {
+        "id": 258,
         "title": "Parrot OS",
         "description": "Professional tools for Pentesters and Hackers",
         "url": "https://parrotlinux.org/",
@@ -2847,9 +2847,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "OPERATING SYSTEM"
-    },
-    {
-        "id": "259",
+      },
+      {
+        "id": 259,
         "title": "Passport Index",
         "description": "Passport Index curates, sorts and ranks the world's passports",
         "url": "https://www.passportindex.org/",
@@ -2858,9 +2858,9 @@ const _resources = [
         "tag1": "INSIGHTS",
         "tag2": "IDENTIFICATION",
         "tag3": ""
-    },
-    {
-        "id": "260",
+      },
+      {
+        "id": 260,
         "title": "Pexels",
         "description": "The best free stock photos & videos shared by talented creators",
         "url": "https://www.pexels.com/",
@@ -2869,9 +2869,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "261",
+      },
+      {
+        "id": 261,
         "title": "Phishtank",
         "description": "Join the fight against phishing",
         "url": "https://www.phishtank.com/",
@@ -2880,20 +2880,20 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "WEBSITE"
-    },
-    {
-        "id": "262",
+      },
+      {
+        "id": 262,
         "title": "Pi-Hole",
-        "description": "Network-wide Ad Blocking .",
+        "description": "Network-wide Ad Blocking",
         "url": "https://pi-hole.net/",
         "main_cat1": "CYBERSEC",
         "main_cat2": "",
         "tag1": "NETWORK",
         "tag2": "PRIVACY",
         "tag3": "AD BLOCKER"
-    },
-    {
-        "id": "263",
+      },
+      {
+        "id": 263,
         "title": "Pixabay",
         "description": "Stunning free images & royalty free stock",
         "url": "https://pixabay.com/",
@@ -2902,9 +2902,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "264",
+      },
+      {
+        "id": 264,
         "title": "Pixlr",
         "description": "Discover free and premium online photo editor! Effects, filters, overlays, simple to expert tools",
         "url": "https://pixlr.com/",
@@ -2913,9 +2913,9 @@ const _resources = [
         "tag1": "PHOTO / VIDEO EDITING",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "265",
+      },
+      {
+        "id": 265,
         "title": "Plotly",
         "description": "Plotly creates & stewards the leading data viz & UI tools for ML, data science, engineering, and the sciences",
         "url": "https://plotly.com/",
@@ -2924,9 +2924,9 @@ const _resources = [
         "tag1": "VISUALIZATION",
         "tag2": "ANALYTICS",
         "tag3": ""
-    },
-    {
-        "id": "266",
+      },
+      {
+        "id": 266,
         "title": "Plug and Play Tech Center",
         "description": "We connect the largest corporations to the world's best startups through industry-focused accelerator programs in Silicon Valley and beyond",
         "url": "https://www.plugandplaytechcenter.com/",
@@ -2935,9 +2935,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "267",
+      },
+      {
+        "id": 267,
         "title": "PolyNote",
         "description": "The polyglot notebook with first-class Scala support",
         "url": "https://polynote.org/",
@@ -2946,9 +2946,9 @@ const _resources = [
         "tag1": "IDEs",
         "tag2": "ONLINE",
         "tag3": "SCALA"
-    },
-    {
-        "id": "268",
+      },
+      {
+        "id": 268,
         "title": "Port Checkers",
         "description": "The Port Checker is an online tool to test open ports in your system",
         "url": "https://www.portcheckers.com/",
@@ -2957,9 +2957,9 @@ const _resources = [
         "tag1": "NETWORK",
         "tag2": "SECURITY",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "269",
+      },
+      {
+        "id": 269,
         "title": "Probely",
         "description": "Web application and API vulnerability scanner",
         "url": "https://probely.com/",
@@ -2968,9 +2968,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY HEADERS",
         "tag3": "CSP"
-    },
-    {
-        "id": "270",
+      },
+      {
+        "id": 270,
         "title": "Progress in Technology Middle East (PITME) Labs",
         "description": "",
         "url": "http://www.pitme.com/",
@@ -2979,9 +2979,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "271",
+      },
+      {
+        "id": 271,
         "title": "ProSienbenSat.1 Accelerator",
         "description": "",
         "url": "https://www.p7s1accelerator.com/",
@@ -2990,9 +2990,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "272",
+      },
+      {
+        "id": 272,
         "title": "Public APIs",
         "description": "A Directory of Free Public & Open Rest APIs",
         "url": "https://public-apis.io/",
@@ -3001,9 +3001,9 @@ const _resources = [
         "tag1": "API",
         "tag2": "RESOURCES",
         "tag3": "AUTOMATION"
-    },
-    {
-        "id": "273",
+      },
+      {
+        "id": 273,
         "title": "Public APIs XYZ",
         "description": "A Collection of Public and Free APIs for Development",
         "url": "https://public-apis.xyz/",
@@ -3012,9 +3012,9 @@ const _resources = [
         "tag1": "API",
         "tag2": "RESOURCES",
         "tag3": "AUTOMATION"
-    },
-    {
-        "id": "274",
+      },
+      {
+        "id": 274,
         "title": "PulseDive",
         "description": "Pulsedive is a free threat intelligence platform. Search, scan, and enrich IPs, URLs, domains and other IOCs from OSINT feeds or submit your own.",
         "url": "https://pulsedive.com/",
@@ -3023,9 +3023,9 @@ const _resources = [
         "tag1": "NETWORK",
         "tag2": "DOMAINS WEBSITE ANALYSIS",
         "tag3": "OSINT"
-    },
-    {
-        "id": "275",
+      },
+      {
+        "id": 275,
         "title": "Python",
         "description": "The official home of the Python Programming Language",
         "url": "https://www.python.org/",
@@ -3034,20 +3034,20 @@ const _resources = [
         "tag1": "PROGRAMMING LANGUAGE",
         "tag2": "PYTHON",
         "tag3": ""
-    },
-    {
-        "id": "276",
+      },
+      {
+        "id": 276,
         "title": "Quantic School of Business",
-        "description": "Quantic School of Business and Technology is the #ModernMBA — the world’s only accredited mobile-first graduate school",
+        "description": "Quantic School of Business and Technology is the #ModernMBA — the world's only accredited mobile-first graduate school",
         "url": "https://quantic.edu/",
         "main_cat1": "MOOCs",
         "main_cat2": "",
         "tag1": "GENERAL",
         "tag2": "ONLINE LEARNING",
         "tag3": "MBA"
-    },
-    {
-        "id": "277",
+      },
+      {
+        "id": 277,
         "title": "Quetext",
         "description": "Plagiarism Checker & Citation Assistant",
         "url": "https://www.quetext.com/",
@@ -3056,9 +3056,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "PLAGIARISM",
         "tag3": "STUDENTS UNIVERSITY"
-    },
-    {
-        "id": "278",
+      },
+      {
+        "id": 278,
         "title": "QuickSand Framework",
         "description": "QuickSand is a Python-based analysis framework to analyze suspected malware documents to identify exploits in streams of different encodings or compressions",
         "url": "https://quicksand.io/",
@@ -3067,9 +3067,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "279",
+      },
+      {
+        "id": 279,
         "title": "R Project",
         "description": "R is a free software environment for statistical computing and graphics",
         "url": "https://www.r-project.org/",
@@ -3078,9 +3078,9 @@ const _resources = [
         "tag1": "PROGRAMMING LANGUAGE",
         "tag2": "R",
         "tag3": ""
-    },
-    {
-        "id": "280",
+      },
+      {
+        "id": 280,
         "title": "Ready Mobi",
         "description": "A free tool for developers, designers and marketers to test website performance on mobile devices",
         "url": "https://ready.mobi/",
@@ -3089,9 +3089,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SPEED",
         "tag3": "MOBILE RESPONSIVENESS"
-    },
-    {
-        "id": "281",
+      },
+      {
+        "id": 281,
         "title": "Really Good Emails",
         "description": "The Best Email Designs in the Universe",
         "url": "https://reallygoodemails.com/",
@@ -3100,9 +3100,9 @@ const _resources = [
         "tag1": "HTML TEMPLATES",
         "tag2": "HTML5",
         "tag3": "CASCADING STYLE SHEETS CSS"
-    },
-    {
-        "id": "282",
+      },
+      {
+        "id": 282,
         "title": "Rebelbio",
         "description": "Featured Portfolio - Innovative startups from every corner of the globe",
         "url": "https://rebelbio.co/",
@@ -3111,9 +3111,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "283",
+      },
+      {
+        "id": 283,
         "title": "Rebrandly",
         "description": "URL Shortener with custom domains",
         "url": "https://www.rebrandly.com/",
@@ -3122,9 +3122,9 @@ const _resources = [
         "tag1": "URL SHORTENER",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "284",
+      },
+      {
+        "id": 284,
         "title": "ReFED",
         "description": "A data-driven guide for businesses, government, funders, and nonprofits to collectively reduce food waste at scale",
         "url": "https://www.refed.com/",
@@ -3133,9 +3133,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "285",
+      },
+      {
+        "id": 285,
         "title": "Remote it",
         "description": "Add port forwardless, secure access to your network resources for remote work",
         "url": "https://remote.it/",
@@ -3144,9 +3144,9 @@ const _resources = [
         "tag1": "INTERNET OF THINGS",
         "tag2": "INTERNET OF THINGS IoT",
         "tag3": "RASPBERRY PI"
-    },
-    {
-        "id": "286",
+      },
+      {
+        "id": 286,
         "title": "Report URI",
         "description": "Report URI provides real-time security reporting for your site",
         "url": "https://report-uri.com/",
@@ -3155,9 +3155,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY HEADERS",
         "tag3": "CSP"
-    },
-    {
-        "id": "287",
+      },
+      {
+        "id": 287,
         "title": "Request Map Generator",
         "description": "Rapidly identify what third-parties are on your site, where your transmitted bytes are coming from and how slow your domains are",
         "url": "https://requestmap.webperf.tools/",
@@ -3166,9 +3166,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "DOMAIN NODE MAP",
         "tag3": "WEBSITE VISUALIZATION"
-    },
-    {
-        "id": "288",
+      },
+      {
+        "id": 288,
         "title": "Robtex",
         "description": "Robtex uses various sources to gather public information about IP numbers, domain names, host names, Autonomous systems, routes, etc",
         "url": "https://www.robtex.com/",
@@ -3177,9 +3177,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "NETWORK",
         "tag3": "DOMAIN NAME SYSTEM"
-    },
-    {
-        "id": "289",
+      },
+      {
+        "id": 289,
         "title": "Rock Health",
         "description": "",
         "url": "https://rockhealth.com/",
@@ -3188,9 +3188,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "290",
+      },
+      {
+        "id": 290,
         "title": "Rockstart Accelerator",
         "description": "Rockstart supports startups in becoming scalable by providing access to capital, market, community, and expertise",
         "url": "https://www.rockstart.com/",
@@ -3199,9 +3199,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "291",
+      },
+      {
+        "id": 291,
         "title": "Router Security",
         "description": "Router Security Home Page",
         "url": "https://routersecurity.org/index.php",
@@ -3210,9 +3210,9 @@ const _resources = [
         "tag1": "NETWORK",
         "tag2": "SECURITY",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "292",
+      },
+      {
+        "id": 292,
         "title": "RStudio",
         "description": "RStudio provides free and open source tools for R and enterprise-ready professional software for data science teams to develop and share their work at scale",
         "url": "https://rstudio.com/",
@@ -3221,9 +3221,9 @@ const _resources = [
         "tag1": "IDEs",
         "tag2": "R",
         "tag3": ""
-    },
-    {
-        "id": "293",
+      },
+      {
+        "id": 293,
         "title": "ScamDoc",
         "description": "ScamDoc.com is a web tool that evaluates \"digital identities\" reliability (email address or website)",
         "url": "https://www.scamdoc.com/",
@@ -3232,9 +3232,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "PRIVACY",
         "tag3": "SCAM"
-    },
-    {
-        "id": "294",
+      },
+      {
+        "id": 294,
         "title": "ScanURL",
         "description": "",
         "url": "https://scanurl.net/",
@@ -3243,9 +3243,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "WEBSITE"
-    },
-    {
-        "id": "295",
+      },
+      {
+        "id": 295,
         "title": "Security Headers",
         "description": "Quickly and easily assess the security of your HTTP response headers",
         "url": "https://securityheaders.com/",
@@ -3254,9 +3254,9 @@ const _resources = [
         "tag1": "SECURITY",
         "tag2": "HTTP ANALYTICS",
         "tag3": "SECURITY HEADERS CSP"
-    },
-    {
-        "id": "296",
+      },
+      {
+        "id": 296,
         "title": "security.txt",
         "description": "A proposed standard which allows websites to define security policies.",
         "url": "https://securitytxt.org/",
@@ -3265,9 +3265,9 @@ const _resources = [
         "tag1": "SECURITY",
         "tag2": "RESEARCH",
         "tag3": "SECURITY VULNERABILITIES BUG BOUNTY"
-    },
-    {
-        "id": "297",
+      },
+      {
+        "id": 297,
         "title": "SeedRocket",
         "description": "",
         "url": "https://www.seedrocket.com/",
@@ -3276,9 +3276,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "298",
+      },
+      {
+        "id": 298,
         "title": "SeekLogo",
         "description": "Brand logos and logo templates in vector format",
         "url": "https://seeklogo.net/",
@@ -3287,9 +3287,9 @@ const _resources = [
         "tag1": "LOGOS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "299",
+      },
+      {
+        "id": 299,
         "title": "SEO Site Checkup",
         "description": "Find comprehensive search engine optimization (SEO) tools for your site",
         "url": "https://seositecheckup.com/",
@@ -3298,9 +3298,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "SEO",
         "tag3": ""
-    },
-    {
-        "id": "300",
+      },
+      {
+        "id": 300,
         "title": "Shodan",
         "description": "Shodan is the world's first search engine for Internet-connected devices",
         "url": "https://www.shodan.io/",
@@ -3309,9 +3309,9 @@ const _resources = [
         "tag1": "NETWORK",
         "tag2": "SEARCH ENGINE",
         "tag3": "INTERNET OF THINGS IoT"
-    },
-    {
-        "id": "301",
+      },
+      {
+        "id": 301,
         "title": "ShortURL",
         "description": "ShortURL is a url shortener to reduce a long link",
         "url": "https://www.shorturl.at/",
@@ -3320,9 +3320,9 @@ const _resources = [
         "tag1": "URL SHORTENER",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "302",
+      },
+      {
+        "id": 302,
         "title": "Simple Icons",
         "description": "Free SVG icons for popular brands",
         "url": "https://simpleicons.org/",
@@ -3331,9 +3331,9 @@ const _resources = [
         "tag1": "ICONS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "303",
+      },
+      {
+        "id": 303,
         "title": "Sitechecker",
         "description": "Get Free Website SEO Score Online",
         "url": "https://sitechecker.pro/",
@@ -3342,9 +3342,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "SEO",
         "tag3": ""
-    },
-    {
-        "id": "304",
+      },
+      {
+        "id": 304,
         "title": "Sketch",
         "description": "Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.",
         "url": "https://www.sketch.com/",
@@ -3353,9 +3353,9 @@ const _resources = [
         "tag1": "PROTOTYPING",
         "tag2": "UX DESIGN",
         "tag3": ""
-    },
-    {
-        "id": "305",
+      },
+      {
+        "id": 305,
         "title": "Smart Mockups",
         "description": "Create stunning and high-quality product photos with Smartmockups online mockup generator",
         "url": "https://smartmockups.com/",
@@ -3364,9 +3364,9 @@ const _resources = [
         "tag1": "MOCKUPS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "306",
+      },
+      {
+        "id": 306,
         "title": "Snort",
         "description": "Snort is an open-source, free and lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats.",
         "url": "https://www.snort.org/",
@@ -3375,9 +3375,9 @@ const _resources = [
         "tag1": "NETWORK",
         "tag2": "INTRUSION DETECTION",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "307",
+      },
+      {
+        "id": 307,
         "title": "Social Blade",
         "description": "Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter",
         "url": "https://socialblade.com/",
@@ -3386,9 +3386,9 @@ const _resources = [
         "tag1": "SOCIAL MEDIA",
         "tag2": "YOUTUBE",
         "tag3": ""
-    },
-    {
-        "id": "308",
+      },
+      {
+        "id": 308,
         "title": "Social Status",
         "description": "Social Status is a social media analytics tool for competitor analysis, social media benchmarks, setting KPIs, social ROI and automated social media reports",
         "url": "https://www.socialstatus.io/",
@@ -3397,9 +3397,9 @@ const _resources = [
         "tag1": "SOCIAL MEDIA",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "309",
+      },
+      {
+        "id": 309,
         "title": "SoloLearn",
         "description": "SoloLearn: Learn to code for FREE",
         "url": "https://www.sololearn.com/",
@@ -3408,20 +3408,20 @@ const _resources = [
         "tag1": "DIGITAL",
         "tag2": "ONLINE LEARNING",
         "tag3": "PROGRAMMING"
-    },
-    {
-        "id": "310",
+      },
+      {
+        "id": 310,
         "title": "SOSV",
-        "description": "SOSV is a global venture capital firm providing multi-stage investment to develop and scale our founders’ big ideas for positive change",
+        "description": "SOSV is a global venture capital firm providing multi-stage investment to develop and scale our founders' big ideas for positive change",
         "url": "https://sosv.com/",
         "main_cat1": "STARTUPS",
         "main_cat2": "",
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "311",
+      },
+      {
+        "id": 311,
         "title": "Spain Open Data",
         "description": "Open data initiative of the Government of Spain",
         "url": "https://datos.gob.es/en",
@@ -3430,9 +3430,9 @@ const _resources = [
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": "EUROPE"
-    },
-    {
-        "id": "312",
+      },
+      {
+        "id": 312,
         "title": "SpeedGuide",
         "description": "",
         "url": "https://www.speedguide.net/",
@@ -3441,9 +3441,9 @@ const _resources = [
         "tag1": "NETWORK",
         "tag2": "SECURITY",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "313",
+      },
+      {
+        "id": 313,
         "title": "SpyFu",
         "description": "Competitor Keyword Research Tools",
         "url": "https://www.spyfu.com/",
@@ -3452,9 +3452,9 @@ const _resources = [
         "tag1": "SOCIAL MEDIA",
         "tag2": "MARKETING",
         "tag3": "SEO"
-    },
-    {
-        "id": "314",
+      },
+      {
+        "id": 314,
         "title": "SRI Hash Generator",
         "description": "Generate Subresource Integrity (SRI) attributes, easily and fast",
         "url": "https://www.srihash.org/",
@@ -3463,9 +3463,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "WEBSITE"
-    },
-    {
-        "id": "315",
+      },
+      {
+        "id": 315,
         "title": "StartPage",
         "description": "",
         "url": "https://www.startpage.com/",
@@ -3474,20 +3474,20 @@ const _resources = [
         "tag1": "PRIVACY",
         "tag2": "ONLINE",
         "tag3": ""
-    },
-    {
-        "id": "316",
+      },
+      {
+        "id": 316,
         "title": "Startup Bootcamp",
-        "description": "Startupbootcamp is the world’s largest network of multi-corporate backed accelerators helping startups scale internationally",
+        "description": "Startupbootcamp is the world's largest network of multi-corporate backed accelerators helping startups scale internationally",
         "url": "https://www.startupbootcamp.org/",
         "main_cat1": "STARTUPS",
         "main_cat2": "",
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "317",
+      },
+      {
+        "id": 317,
         "title": "StartUp Chile",
         "description": "",
         "url": "http://www.startupchile.org/",
@@ -3496,9 +3496,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "318",
+      },
+      {
+        "id": 318,
         "title": "Startup Reykjavik",
         "description": "",
         "url": "https://startupreykjavik.is/",
@@ -3507,9 +3507,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "319",
+      },
+      {
+        "id": 319,
         "title": "Startup Wise Guys",
         "description": "Startup Wise Guys - Europe's most experienced B2B startup accelerator and one of the most active early stage investors in the Nordics with strong focus on CEE startups and success rate above 77%",
         "url": "https://startupwiseguys.com/",
@@ -3518,9 +3518,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "320",
+      },
+      {
+        "id": 320,
         "title": "StartupHighway",
         "description": "",
         "url": "http://startuphighway.com/",
@@ -3529,9 +3529,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "321",
+      },
+      {
+        "id": 321,
         "title": "StartX",
         "description": "",
         "url": "https://startx.com/",
@@ -3540,9 +3540,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "322",
+      },
+      {
+        "id": 322,
         "title": "Sucuri SiteCheck",
         "description": "Free website security check & malware scanner",
         "url": "https://sitecheck.sucuri.net/",
@@ -3551,9 +3551,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "WEBSITE"
-    },
-    {
-        "id": "323",
+      },
+      {
+        "id": 323,
         "title": "Sumo",
         "description": "Try Sumo for free today",
         "url": "https://sumo.com/",
@@ -3562,9 +3562,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "SOCIAL MEDIA",
         "tag3": ""
-    },
-    {
-        "id": "324",
+      },
+      {
+        "id": 324,
         "title": "Super Cookie",
         "description": "Browser-Fingerprinting via Favicon",
         "url": "https://supercookie.me/",
@@ -3573,9 +3573,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SUPERCOOKIE",
         "tag3": "TRACKING PRIVACY"
-    },
-    {
-        "id": "325",
+      },
+      {
+        "id": 325,
         "title": "Tableau Public",
         "description": "Free software that can allow anyone to connect to a spreadsheet or file and create interactive data visualizations for the web",
         "url": "https://public.tableau.com/en-us/s/",
@@ -3584,9 +3584,9 @@ const _resources = [
         "tag1": "VISUALIZATION",
         "tag2": "ANALYTICS",
         "tag3": "TOOLS"
-    },
-    {
-        "id": "326",
+      },
+      {
+        "id": 326,
         "title": "TechFounders",
         "description": "Europe's premium tech startup accelerator program which brings tech startups together with corporate partners and venture capitalists",
         "url": "https://www.techfounders.com/",
@@ -3595,9 +3595,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "327",
+      },
+      {
+        "id": 327,
         "title": "Techstars",
         "description": "",
         "url": "https://www.techstars.com/",
@@ -3606,9 +3606,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "328",
+      },
+      {
+        "id": 328,
         "title": "Temp-Mail",
         "description": "Free temporary disposable e-mail",
         "url": "https://temp-mail.org/",
@@ -3617,9 +3617,9 @@ const _resources = [
         "tag1": "TEMPORARY EMAIL",
         "tag2": "PRIVACY",
         "tag3": ""
-    },
-    {
-        "id": "329",
+      },
+      {
+        "id": 329,
         "title": "Tempail",
         "description": "Temp Mail provides temporary, anonymous, free, secure, disposable email address. You can use on facebook, twitter or instagram for anonymously sign up!",
         "url": "https://tempail.com/en/",
@@ -3628,9 +3628,9 @@ const _resources = [
         "tag1": "TEMPORARY EMAIL",
         "tag2": "PRIVACY",
         "tag3": ""
-    },
-    {
-        "id": "330",
+      },
+      {
+        "id": 330,
         "title": "Template",
         "description": "Easily Download, Edit, Print Free Templates",
         "url": "https://www.template.net/",
@@ -3639,9 +3639,9 @@ const _resources = [
         "tag1": "TEMPLATES",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "331",
+      },
+      {
+        "id": 331,
         "title": "Templated",
         "description": "A collection of simple CSS, HTML5 & Responsive site templates",
         "url": "https://templated.co/",
@@ -3650,9 +3650,9 @@ const _resources = [
         "tag1": "HTML TEMPLATES",
         "tag2": "HTML5",
         "tag3": "CASCADING STYLE SHEETS CSS"
-    },
-    {
-        "id": "332",
+      },
+      {
+        "id": 332,
         "title": "Terra Accelerator",
         "description": "",
         "url": "https://www.terraaccelerator.com/",
@@ -3661,9 +3661,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "333",
+      },
+      {
+        "id": 333,
         "title": "Test My Site – Think with Google",
         "description": "Improve your mobile site to boost your business.",
         "url": "https://www.thinkwithgoogle.com/feature/testmysite/",
@@ -3672,9 +3672,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "WEBSITE SPEED PERFORMANCE ANALYTICS",
         "tag3": ""
-    },
-    {
-        "id": "334",
+      },
+      {
+        "id": 334,
         "title": "The Birdhouse",
         "description": "",
         "url": "https://www.gobirdhouse.com/",
@@ -3683,9 +3683,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "335",
+      },
+      {
+        "id": 335,
         "title": "The Block List Project",
         "description": "A site dedicated to creating block lists for DNS based blocking devices.",
         "url": "https://blocklist.site/",
@@ -3694,9 +3694,9 @@ const _resources = [
         "tag1": "FILTERS",
         "tag2": "PRIVACY",
         "tag3": "AD BLOCKER"
-    },
-    {
-        "id": "336",
+      },
+      {
+        "id": 336,
         "title": "The Good Jobs Accelerator",
         "description": "ICA provides Bay Area small businesses with the mentoring, investments, and connections they need to grow",
         "url": "https://www.icafundgoodjobs.org/",
@@ -3705,9 +3705,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "337",
+      },
+      {
+        "id": 337,
         "title": "The Internet Initiatives Development Fund (IIDF)",
         "description": "The Internet Initiatives Development Fund is a Russian venture capital fund",
         "url": "https://iidf.vc/",
@@ -3716,9 +3716,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "338",
+      },
+      {
+        "id": 338,
         "title": "The Noun Project",
         "description": "Noun Project features the most diverse collection of icons and stock photos ever",
         "url": "https://thenounproject.com/",
@@ -3727,9 +3727,9 @@ const _resources = [
         "tag1": "ICONS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "339",
+      },
+      {
+        "id": 339,
         "title": "The Webby Awards",
         "description": "The Webby Awards is the leading international award honoring excellence on the Internet.",
         "url": "https://www.webbyawards.com/",
@@ -3738,9 +3738,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "INSPIRATION",
         "tag3": "TRENDS"
-    },
-    {
-        "id": "340",
+      },
+      {
+        "id": 340,
         "title": "ThreatMiner",
         "description": "ThreatMiner is a threat intelligence portal that provides information on indicators of compromise (IOC).",
         "url": "https://www.threatminer.org/",
@@ -3749,9 +3749,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "DOMAINS MALWARE IP ADDRESSES CHECKSUM HASH SSL",
         "tag3": "WHOIS"
-    },
-    {
-        "id": "341",
+      },
+      {
+        "id": 341,
         "title": "ThrowAwayMail",
         "description": "Free temporary disposable e-mail",
         "url": "https://www.throwawaymail.com/en",
@@ -3760,9 +3760,9 @@ const _resources = [
         "tag1": "TEMPORARY EMAIL",
         "tag2": "PRIVACY",
         "tag3": ""
-    },
-    {
-        "id": "342",
+      },
+      {
+        "id": 342,
         "title": "TiE Launchpad",
         "description": "Accelerator for enterprise startups",
         "url": "https://www.tielaunchpad.com/",
@@ -3771,9 +3771,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "343",
+      },
+      {
+        "id": 343,
         "title": "TinyURL",
         "description": "Making over a billion long URLs usable",
         "url": "https://tinyurl.com/",
@@ -3782,9 +3782,9 @@ const _resources = [
         "tag1": "URL SHORTENER",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "344",
+      },
+      {
+        "id": 344,
         "title": "Tooplate",
         "description": "Download free HTML CSS website templates from Tooplate and use them for any purpose",
         "url": "https://www.tooplate.com/",
@@ -3793,9 +3793,9 @@ const _resources = [
         "tag1": "HTML TEMPLATES",
         "tag2": "HTML5",
         "tag3": "CASCADING STYLE SHEETS CSS"
-    },
-    {
-        "id": "345",
+      },
+      {
+        "id": 345,
         "title": "Tory Burch Foundation Fellowship",
         "description": "A 1-year virtual fellowship, $5,000 business education grant, and access to a network of peer founders for women-owned businesses",
         "url": "http://www.toryburchfoundation.org/fellows/",
@@ -3804,9 +3804,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "346",
+      },
+      {
+        "id": 346,
         "title": "Travel Insights with Google",
         "description": "Helping the travel industry reach travelers, everywhere",
         "url": "https://travelinsights.withgoogle.com/",
@@ -3815,9 +3815,9 @@ const _resources = [
         "tag1": "INSIGHTS",
         "tag2": "TOURISM",
         "tag3": ""
-    },
-    {
-        "id": "347",
+      },
+      {
+        "id": 347,
         "title": "uBlock Origin",
         "description": "uBlock Origin - An efficient blocker for Chromium and Firefox",
         "url": "https://github.com/gorhill/uBlock/",
@@ -3826,9 +3826,9 @@ const _resources = [
         "tag1": "BROWSER",
         "tag2": "PRIVACY",
         "tag3": "AD BLOCKER"
-    },
-    {
-        "id": "348",
+      },
+      {
+        "id": 348,
         "title": "Udemy",
         "description": "Udemy is an online learning and teaching marketplace with over 130,000 courses and 35 million students",
         "url": "https://www.udemy.com/",
@@ -3837,9 +3837,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "ONLINE LEARNING",
         "tag3": ""
-    },
-    {
-        "id": "349",
+      },
+      {
+        "id": 349,
         "title": "Unsplash",
         "description": "Beautiful, free images and photos that you can download and use for any project",
         "url": "https://unsplash.com/",
@@ -3848,9 +3848,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "350",
+      },
+      {
+        "id": 350,
         "title": "UNUM",
         "description": "Tools for the modern-day creator",
         "url": "https://www.unum.la/",
@@ -3859,9 +3859,9 @@ const _resources = [
         "tag1": "PHOTO / VIDEO EDITING",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "351",
+      },
+      {
+        "id": 351,
         "title": "UpGuard WebScan",
         "description": "Free Website Security Scan",
         "url": "https://webscan.upguard.com/",
@@ -3870,9 +3870,9 @@ const _resources = [
         "tag1": "SECURITY",
         "tag2": "SECURITY HEADERS",
         "tag3": "CSP"
-    },
-    {
-        "id": "352",
+      },
+      {
+        "id": 352,
         "title": "UpWest VC",
         "description": "UpWest is a Seed Fund based in Silicon Valley supporting Israel's best tech entrepreneurs",
         "url": "https://upwest.vc/",
@@ -3881,9 +3881,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "353",
+      },
+      {
+        "id": 353,
         "title": "URL rw",
         "description": "Minimize your digital footprint by hiding your referrer when linking to external websites with the masked url below",
         "url": "https://url.rw/",
@@ -3892,9 +3892,9 @@ const _resources = [
         "tag1": "URL SHORTENER",
         "tag2": "SECURITY",
         "tag3": "PRIVACY"
-    },
-    {
-        "id": "354",
+      },
+      {
+        "id": 354,
         "title": "URLvoid",
         "description": "This service helps you detect potentially malicious websites",
         "url": "https://www.urlvoid.com/",
@@ -3903,20 +3903,20 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "WEBSITE"
-    },
-    {
-        "id": "355",
+      },
+      {
+        "id": 355,
         "title": "USA Open Data",
-        "description": "The home of the U.S. Government’s open data",
+        "description": "The home of the U.S. Government's open data",
         "url": "https://www.data.gov/",
         "main_cat1": "OPEN DATA",
         "main_cat2": "",
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": "NORTH AMERICA"
-    },
-    {
-        "id": "356",
+      },
+      {
+        "id": 356,
         "title": "UTM",
         "description": "Our UTM tool makes it easy and fast to set up tracking on every link, leaving you free to dive into the data to learn how you can maximize the effectiveness of your email and social media campaigns.",
         "url": "https://web.utm.io/",
@@ -3925,9 +3925,9 @@ const _resources = [
         "tag1": "WEBSITE",
         "tag2": "MARKETING",
         "tag3": "SPREADSHEETS"
-    },
-    {
-        "id": "357",
+      },
+      {
+        "id": 357,
         "title": "VirusTotal",
         "description": "Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community FILE URL",
         "url": "https://www.virustotal.com/gui/",
@@ -3936,9 +3936,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "358",
+      },
+      {
+        "id": 358,
         "title": "Visual Studio",
         "description": "Visual Studio dev tools & services make app development easy for any platform & language",
         "url": "https://visualstudio.microsoft.com/",
@@ -3947,9 +3947,9 @@ const _resources = [
         "tag1": "IDEs",
         "tag2": "PYTHON",
         "tag3": ""
-    },
-    {
-        "id": "359",
+      },
+      {
+        "id": 359,
         "title": "W3Techs",
         "description": "World Wide Web Technology Surveys",
         "url": "https://w3techs.com/",
@@ -3958,9 +3958,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "INTERNET RESEARCH",
         "tag3": "INFORMATION"
-    },
-    {
-        "id": "360",
+      },
+      {
+        "id": 360,
         "title": "Wallpapers",
         "description": "Search and download beautiful high definition Wallpapers for personal and commercial use and provided by our generous Community of stunning Photographers",
         "url": "https://wallpapers.io/",
@@ -3969,9 +3969,9 @@ const _resources = [
         "tag1": "PHOTO STOCKS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "361",
+      },
+      {
+        "id": 361,
         "title": "Wappalyzer",
         "description": "Find out the technology stack of any website",
         "url": "https://www.wappalyzer.com/",
@@ -3980,9 +3980,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "TECH STACK WEBSITE",
         "tag3": "RESEARCH"
-    },
-    {
-        "id": "362",
+      },
+      {
+        "id": 362,
         "title": "Wayra",
         "description": "Wayra is the fast-track into O2 and Telefónica",
         "url": "https://www.wayra.uk/",
@@ -3991,9 +3991,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "363",
+      },
+      {
+        "id": 363,
         "title": "Web Code Tools",
         "description": "The ultimate tools for web development",
         "url": "https://webcode.tools/",
@@ -4002,9 +4002,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "CASCADING STYLE SHEETS CSS HTML JSON META TAGS WEBSITE",
         "tag3": "WEB DEVELOPERS"
-    },
-    {
-        "id": "364",
+      },
+      {
+        "id": 364,
         "title": "WebCookies",
         "description": "All-in-one free web application security tool",
         "url": "https://webcookies.org/",
@@ -4013,9 +4013,9 @@ const _resources = [
         "tag1": "TOOLS",
         "tag2": "SECURITY",
         "tag3": "WEBSITE"
-    },
-    {
-        "id": "365",
+      },
+      {
+        "id": 365,
         "title": "Webkay",
         "description": "This is a demonstration of all the data your browser knows about you",
         "url": "https://webkay.robinlinus.com/",
@@ -4024,9 +4024,9 @@ const _resources = [
         "tag1": "BROWSER",
         "tag2": "PRIVACY",
         "tag3": "NETWORK"
-    },
-    {
-        "id": "366",
+      },
+      {
+        "id": 366,
         "title": "WebPageTest",
         "description": "Run a free website speed test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations",
         "url": "https://www.webpagetest.org/",
@@ -4035,9 +4035,9 @@ const _resources = [
         "tag1": "SECURITY",
         "tag2": "HTTP ANALYTICS",
         "tag3": "WEB ANALYTICS"
-    },
-    {
-        "id": "367",
+      },
+      {
+        "id": 367,
         "title": "Wells Fargo Startup Accelerator",
         "description": "Wells Fargo Startup Accelerator",
         "url": "https://accelerator.wf.com/",
@@ -4046,9 +4046,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "368",
+      },
+      {
+        "id": 368,
         "title": "WiGLE",
         "description": "Maps and database of 802.11 wireless networks, with statistics, submitted by wardrivers, netstumblers, and net huggers.",
         "url": "https://wigle.net/",
@@ -4057,9 +4057,9 @@ const _resources = [
         "tag1": "NETWORK",
         "tag2": "WIFI WIRELESS",
         "tag3": "OSINT"
-    },
-    {
-        "id": "369",
+      },
+      {
+        "id": 369,
         "title": "Wikidata",
         "description": "Wikidata is a free and open knowledge base that can be read and edited by both humans and machines",
         "url": "https://www.wikidata.org/",
@@ -4068,9 +4068,9 @@ const _resources = [
         "tag1": "GENERAL",
         "tag2": "STRUCTURED DATA STORAGE",
         "tag3": "WIKIPEDIA OPEN DATA"
-    },
-    {
-        "id": "370",
+      },
+      {
+        "id": 370,
         "title": "Wireshark",
         "description": "Wireshark is the world's foremost and widely-used network protocol analyzer",
         "url": "https://www.wireshark.org/",
@@ -4079,9 +4079,9 @@ const _resources = [
         "tag1": "NETWORK",
         "tag2": "SECURITY",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "371",
+      },
+      {
+        "id": 371,
         "title": "Women's Startup Lab",
         "description": "Group of influencers committed to advancing venture opportunities for female led startups to succeed",
         "url": "https://womenstartuplab.com/",
@@ -4090,9 +4090,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "372",
+      },
+      {
+        "id": 372,
         "title": "WordTracker",
         "description": "Free Keyword Research Tool",
         "url": "https://www.wordtracker.com/search",
@@ -4101,9 +4101,9 @@ const _resources = [
         "tag1": "SOCIAL MEDIA",
         "tag2": "KEYWORDS",
         "tag3": ""
-    },
-    {
-        "id": "373",
+      },
+      {
+        "id": 373,
         "title": "World Bank Open Data",
         "description": "World Bank Open Data from The World Bank Data",
         "url": "https://data.worldbank.org/",
@@ -4112,9 +4112,9 @@ const _resources = [
         "tag1": "DATASETS",
         "tag2": "DATA SCIENCE",
         "tag3": "INTERNATIONAL"
-    },
-    {
-        "id": "374",
+      },
+      {
+        "id": 374,
         "title": "World Food Programme (WFP) Innovation Accelerator",
         "description": "Innovation for #zerohunger",
         "url": "https://innovation.wfp.org/",
@@ -4123,9 +4123,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "375",
+      },
+      {
+        "id": 375,
         "title": "World Vector Logo",
         "description": "Worldvectorlogo has the largest SVG logo vector collection",
         "url": "https://worldvectorlogo.com/",
@@ -4134,9 +4134,9 @@ const _resources = [
         "tag1": "LOGOS",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "376",
+      },
+      {
+        "id": 376,
         "title": "Xpreneurs",
         "description": "XPRENEURS is a Munich-based tech start-up incubator",
         "url": "https://xpreneurs.io/",
@@ -4145,9 +4145,9 @@ const _resources = [
         "tag1": "INCUBATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "377",
+      },
+      {
+        "id": 377,
         "title": "Y Combinator",
         "description": "Y Combinator created a new model for funding early stage startups",
         "url": "https://www.ycombinator.com/",
@@ -4156,9 +4156,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "378",
+      },
+      {
+        "id": 378,
         "title": "Yachting Ventures",
         "description": "The worlds first 10-week accelerator programme for the next generation of yachting entrepreneurs",
         "url": "https://www.yachtingventures.co/",
@@ -4167,9 +4167,9 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    },
-    {
-        "id": "379",
+      },
+      {
+        "id": 379,
         "title": "You Get Signal",
         "description": "A collection of uncomplicated, powerful network tools.",
         "url": "https://www.yougetsignal.com/",
@@ -4178,9 +4178,9 @@ const _resources = [
         "tag1": "NETWORK",
         "tag2": "SECURITY",
         "tag3": "CYBERSECURITY"
-    },
-    {
-        "id": "380",
+      },
+      {
+        "id": 380,
         "title": "Your Online Choices",
         "description": "A Guide to Online Behavioural Advertising",
         "url": "https://www.youronlinechoices.com/",
@@ -4189,9 +4189,9 @@ const _resources = [
         "tag1": "PRIVACY",
         "tag2": "ADVERTISING",
         "tag3": ""
-    },
-    {
-        "id": "381",
+      },
+      {
+        "id": 381,
         "title": "Yunus Social Business Accelerator",
         "description": "We believe in the power of business to end poverty",
         "url": "https://www.yunussb.com/",
@@ -4200,7 +4200,7 @@ const _resources = [
         "tag1": "ACCELERATOR",
         "tag2": "",
         "tag3": ""
-    }
+      }
   ]
   
   export default class ResourcesStore {
