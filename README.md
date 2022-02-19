@@ -1,3 +1,13 @@
+# Serverless API
+
+Followed this tutorial: [Build a Serverless API with Cloudflare Workers](https://egghead.io/lessons/cloudflare-introduction-to-build-a-serverless-api-with-cloudflare-workers)
+
+The API data is saved at `src/resources_store.ts`.
+
+For more advanced use cases: [Build an API for your front end using Cloudflare Workers](https://developers.cloudflare.com/pages/tutorials/build-an-api-with-workers)
+
+* * * *
+
 # ʕ •́؈•̀) `worker-typescript-template`
 
 A batteries included template for kick starting a TypeScript Cloudflare worker project.
