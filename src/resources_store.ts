@@ -4211,4 +4211,15 @@ const _resources = [
     async find(id: number) {
       return _resources.find(resource => resource.id.toString() === id.toString())
     }
+
+    // async filter(main_cat1: string) {
+    //   return _resources.filter(resource => resource.main_cat1.includes(main_cat1))
+    // }
+
+    async filter(main_cat1: string) {
+      return _resources.filter(obj => {
+          return Object.keys(_resources).every(main_cat1 => obj[main_cat1] === _resources[main_cat1]);
+      });
+  }
+
   }

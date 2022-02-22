@@ -2,3 +2,5 @@ dist
 node_modules
 transpiled
 /.idea/
+src/handlers/.DS_Store
+src/.DS_Store
