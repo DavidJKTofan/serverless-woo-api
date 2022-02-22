@@ -5,7 +5,6 @@ const Main_Cat1 = async request => {
   const resourceMainCat = request.params.main_cat1
   
   const body = JSON.stringify(await resources.filter(resourceMainCat))
-  // const body = JSON.stringify(await resources.filter(x => x.toLowerCase().includes(resourceMainCat)))
   const headers = {
     'Access-Control-Allow-Origin': '*',
     'Content-type': 'application/json'
