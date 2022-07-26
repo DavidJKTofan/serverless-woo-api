@@ -9,6 +9,8 @@ const Main_Cat1 = async request => {
     'Access-Control-Allow-Origin': '*',
     'Content-type': 'application/json'
   }
+  console.log(body)
+  console.log({body})
   return new Response(body, { headers })
 }
 
