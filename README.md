@@ -12,6 +12,10 @@ The entire API data content can be accessed like this: `https://serverless-woo-a
 
 Add a number at the end of the URL to return the specific ID: `https://serverless-woo-api.cf-testing.workers.dev/api/resources/1`
 
+## OpenAPI Schema
+
+View the OpenAPI Schema of this API here: [SwaggerHub OpenAPI Schema](https://app.swaggerhub.com/apis/tototatutu/serverless-api-resources/0.1#/info)
+
 * * * *
 * * * *
 
