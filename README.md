@@ -8,6 +8,8 @@ For more advanced use cases: [Build an API for your front end using Cloudflare W
 
 ## WOO API
 
+Overview and usage: https://serverless-woo-api.cf-testing.workers.dev/
+
 The entire API data content can be accessed like this: `https://serverless-woo-api.cf-testing.workers.dev/api/resources/`
 
 Add a number at the end of the URL to return the specific ID: `https://serverless-woo-api.cf-testing.workers.dev/api/resources/1`
