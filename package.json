@@ -38,6 +38,6 @@
   },
   "dependencies": {
     "itty-router": "^2.6.3",
-    "rxjs": "^7.5.6"
+    "rxjs": "^7.5.7"
   }
 }
