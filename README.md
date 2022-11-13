@@ -14,6 +14,8 @@ The entire API data content can be accessed like this: `https://serverless-woo-a
 
 Add a number at the end of the URL to return the specific ID: `https://serverless-woo-api.cf-testing.workers.dev/api/resources/1`
 
+[Custom Error Response](https://developers.cloudflare.com/rules/custom-error-responses/): `https://api.cf-testing.com/api/resources/?custom=error`
+
 ## OpenAPI Schema
 
 With OpenAPI Schema one can use Cloudflare's [API Shield Schema Validation](https://developers.cloudflare.com/api-shield/security/schema-validation/) feature in order to define which API requests are valid.
