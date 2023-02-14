@@ -8,11 +8,11 @@ For more advanced use cases: [Build an API for your front end using Cloudflare W
 
 ## WOO API
 
-Overview and usage: https://serverless-woo-api.cf-testing.workers.dev/
+Overview and usage: https://api.cf-testing.com/
 
-The entire API data content can be accessed like this: `https://serverless-woo-api.cf-testing.workers.dev/api/resources/`
+The entire API data content can be accessed like this: `https://api.cf-testing.com/api/resources/`
 
-Add a number at the end of the URL to return the specific ID: `https://serverless-woo-api.cf-testing.workers.dev/api/resources/1`
+Add a number at the end of the URL to return the specific ID: `https://api.cf-testing.com/api/resources/1`
 
 [Custom Error Response](https://developers.cloudflare.com/rules/custom-error-responses/): `https://api.cf-testing.com/api/resources/?custom=error`
 
