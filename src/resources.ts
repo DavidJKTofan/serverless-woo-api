@@ -4216,6 +4216,11 @@ const _resources: Resource[] = [
 ];
 
 export default class ResourcesStore {
+  // Computed once at module load — the dataset is static.
+  private static readonly _categories: string[] = [
+    ...new Set(_resources.map(resource => resource.main_cat1)),
+  ].sort();
+
   async all(): Promise<Resource[]> {
     return _resources;
   }
@@ -4226,5 +4231,9 @@ export default class ResourcesStore {
 
   async filter(filterArg: string): Promise<Resource[]> {
     return _resources.filter(resource => resource.main_cat1 === filterArg);
+  }
+
+  async categories(): Promise<string[]> {
+    return ResourcesStore._categories;
   }
 }

@@ -34,8 +34,8 @@ const CORS_HEADERS = {
 
 const store = new ResourcesStore();
 
-function jsonResponse<T>(data: ApiResponse<T>, status = 200): Response {
-  return new Response(JSON.stringify(data, null, 2), {
+function jsonResponse<T>(data: ApiResponse<T>, status = 200, pretty = false): Response {
+  return new Response(JSON.stringify(data, null, pretty ? 2 : undefined), {
     status,
     headers: {
       'Content-Type': 'application/json',
@@ -44,64 +44,66 @@ function jsonResponse<T>(data: ApiResponse<T>, status = 200): Response {
   });
 }
 
-function errorResponse(message: string, statusCode: number): Response {
+function errorResponse(message: string, statusCode: number, pretty = false): Response {
   return jsonResponse<never>(
     {
       error: 'Error',
       message,
       statusCode,
     },
-    statusCode
+    statusCode,
+    pretty
   );
 }
 
-async function handleGetAll(): Promise<Response> {
+async function handleGetAll(pretty: boolean): Promise<Response> {
   try {
     const resources = await store.all();
-    return jsonResponse({ data: resources, count: resources.length });
+    return jsonResponse({ data: resources, count: resources.length }, 200, pretty);
   } catch (error) {
     console.error('Error fetching all resources:', error);
-    return errorResponse('Internal server error', 500);
+    return errorResponse('Internal server error', 500, pretty);
   }
 }
 
-async function handleGetById(id: string): Promise<Response> {
+async function handleGetById(id: string, pretty: boolean): Promise<Response> {
   try {
     const parsedId = parseInt(id, 10);
-    
+
     if (isNaN(parsedId)) {
-      return errorResponse('Invalid resource ID. Must be a number.', 400);
+      return errorResponse('Invalid resource ID. Must be a number.', 400, pretty);
     }
 
     const resource = await store.find(parsedId);
-    
+
     if (!resource) {
-      return errorResponse(`Resource with ID ${parsedId} not found`, 404);
+      return errorResponse(`Resource with ID ${parsedId} not found`, 404, pretty);
     }
 
-    return jsonResponse({ data: resource });
+    return jsonResponse({ data: resource }, 200, pretty);
   } catch (error) {
     console.error(`Error fetching resource ${id}:`, error);
-    return errorResponse('Internal server error', 500);
+    return errorResponse('Internal server error', 500, pretty);
   }
 }
 
-async function handleGetByCategory(category: string): Promise<Response> {
+async function handleGetByCategory(category: string, pretty: boolean): Promise<Response> {
   try {
     const decodedCategory = decodeURIComponent(category).toUpperCase();
     const resources = await store.filter(decodedCategory);
-    
+
     if (resources.length === 0) {
       return errorResponse(
         `No resources found for category: ${decodedCategory}`,
-        404
+        404,
+        pretty
       );
     }
 
-    return jsonResponse({ data: resources, count: resources.length });
+    return jsonResponse({ data: resources, count: resources.length }, 200, pretty);
   } catch (error) {
     console.error(`Error filtering by category ${category}:`, error);
-    return errorResponse('Internal server error', 500);
+    return errorResponse('Internal server error', 500, pretty);
   }
 }
 
@@ -112,14 +114,17 @@ function handleOptions(): Response {
   });
 }
 
-function handleNotFound(): Response {
-  return errorResponse('Endpoint not found', 404);
+function handleNotFound(pretty: boolean): Response {
+  return errorResponse('Endpoint not found', 404, pretty);
 }
 
 export default {
   async fetch(request: Request): Promise<Response> {
     const url = new URL(request.url);
     const { pathname, searchParams } = url;
+
+    // Pretty-print JSON only when `?pretty` is present; minified otherwise.
+    const pretty = searchParams.has('pretty');
 
     // Handle CORS preflight
     if (request.method === 'OPTIONS') {
@@ -128,40 +133,39 @@ export default {
 
     // Only allow GET requests
     if (request.method !== 'GET') {
-      return errorResponse('Method not allowed', 405);
+      return errorResponse('Method not allowed', 405, pretty);
     }
 
     // Route: GET /api/resources
     if (pathname === '/api/resources') {
       const category = searchParams.get('category');
-      
+
       if (category) {
-        return handleGetByCategory(category);
+        return handleGetByCategory(category, pretty);
       }
-      
-      return handleGetAll();
+
+      return handleGetAll(pretty);
     }
 
     // Route: GET /api/resources/:id
     const resourceMatch = pathname.match(/^\/api\/resources\/(\d+)$/);
     if (resourceMatch) {
       const id = resourceMatch[1];
-      return handleGetById(id);
+      return handleGetById(id, pretty);
     }
 
     // Route: GET /api/categories
     if (pathname === '/api/categories') {
       try {
-        const resources = await store.all();
-        const categories = [...new Set(resources.map(r => r.main_cat1))].sort();
-        return jsonResponse({ data: categories, count: categories.length });
+        const categories = await store.categories();
+        return jsonResponse({ data: categories, count: categories.length }, 200, pretty);
       } catch (error) {
         console.error('Error fetching categories:', error);
-        return errorResponse('Internal server error', 500);
+        return errorResponse('Internal server error', 500, pretty);
       }
     }
 
     // 404 for unknown routes
-    return handleNotFound();
+    return handleNotFound(pretty);
   },
 };

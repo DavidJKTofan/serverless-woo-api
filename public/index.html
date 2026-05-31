@@ -74,23 +74,27 @@
 /api/resources    Request JSON data from Cloudflare's edge servers.
 Path params:
 /                 Returns all.
-#                 ID Number. Valid for integer between 0 and 381.
-?category=X       Filter by category (e.g., WEB%20DEV, CYBERSEC).</pre
+#                 ID number. Valid integer between 0 and 381.
+?category=X       Filter by category (e.g., WEB%20DEV, CYBERSEC).
+?pretty           Indent the JSON response (minified by default).
+/api/categories   Returns the sorted list of distinct categories.</pre
 		>
 
 		<h2>Example</h2>
 		<pre>
-$ curl https://api.cf-testing.com/api/resources/32
+$ curl https://api.cf-testing.com/api/resources/32?pretty
 {
-  "id":32,
-  "title":"Bitbucket",
-  "description":"Bitbucket is more than just Git code management",
-  "url":"https://bitbucket.org/product",
-  "main_cat1":"WEB DEV",
-  "main_cat2":"",
-  "tag1":"DEVELOPMENT",
-  "tag2":"PLATFORM",
-  "tag3":"GIT CODE"
+  "data": {
+    "id": 32,
+    "title": "Bitbucket",
+    "description": "Bitbucket is more than just Git code management",
+    "url": "https://bitbucket.org/product",
+    "main_cat1": "WEB DEV",
+    "main_cat2": "",
+    "tag1": "DEVELOPMENT",
+    "tag2": "PLATFORM",
+    "tag3": "GIT CODE"
+  }
 }</pre
 		>
 
